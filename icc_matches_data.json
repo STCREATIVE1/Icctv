@@ -1,0 +1,3149 @@
+{
+    "pagination": {
+        "nextUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos?$skip=25&$limit=25",
+        "maxItems": 100
+    },
+    "meta": {
+        "apiVersion": "2.0",
+        "generatedAt": "2026-09-16T08:39:13.964865Z"
+    },
+    "items": [
+        {
+            "type": "customentity",
+            "_translationId": "d566e4e1-e8d9-485a-bcda-b65e29462f22",
+            "_entityId": "d2b31542-bd9f-4128-9479-68040a0cf602",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/aramco-power-performances-episode-12-built-for-the-big-stage-women-s-t20wc-2026",
+            "slug": "aramco-power-performances-episode-12-built-for-the-big-stage-women-s-t20wc-2026",
+            "title": "Aramco Power Performances | Episode 12 - Built for the Big Stage | Women's T20WC 2026",
+            "tags": [
+                {
+                    "_translationId": "3282572d-6fdc-4b69-b106-22a911294554",
+                    "_entityId": "0a0bd4f9-bb7c-45fc-9078-fdbedd523ea1",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-12672",
+                    "title": "ICC Women's T20 World Cup, 2026",
+                    "slug": "tournament-12672",
+                    "neutralSlug": "tournament-12672",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-12672",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "12672",
+                        "competitionType": "T20 International - w",
+                        "competitionTypeId": "13",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "877785d8-7f5e-4fa4-b1ee-459f6be8f53c",
+                    "_entityId": "370cb7ef-0418-40e4-84ad-f304e551910f",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/latest-videos-icc-women-s-t20-world-cup-2026",
+                    "title": "Latest Videos ICC Women's T20 World Cup, 2026",
+                    "slug": "latest-videos-icc-women-s-t20-world-cup-2026",
+                    "neutralSlug": "latest-videos-icc-women-s-t20-world-cup-2026",
+                    "externalSourceReference": {},
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "4b5b763c-4a07-4c36-bd1f-02bb124fec9b",
+                "description": "Incredible feats from the stars of the game showed that they were truly Built for the Big Stage.  \n  \nMore on these sensational performances at the ICC Women's T20 World Cup in the latest episode of Aramco Power Performances.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/1257248770-ARAMCOPOWERPERFORMANCES-BUILTFORTHEBIGSTAGE1920X1080.mp4",
+                "untrimmedDuration": "PT4M6S",
+                "videoDuration": "PT4M6S"
+            },
+            "createdBy": "Divy Tripathi",
+            "lastUpdatedBy": "Divy Tripathi",
+            "lastUpdatedDate": "2026-09-03T15:40:36.968Z",
+            "contentDate": "2026-09-03T15:40:36.968Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "4b5b763c-4a07-4c36-bd1f-02bb124fec9b-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/p2wusdrfmdqxrqbuq4ke",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/p2wusdrfmdqxrqbuq4ke",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "4b5b763c-4a07-4c36-bd1f-02bb124fec9b-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/4b5b763c-4a07-4c36-bd1f-02bb124fec9b-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "e236a47c-7619-4aeb-9423-bd615f845955",
+            "_entityId": "4c4089df-20d4-472d-8e60-208e6088868d",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/a-new-era-the-women-s-champions-trophy-is-coming",
+            "slug": "a-new-era-the-women-s-champions-trophy-is-coming",
+            "title": "A new era: The Women\u2019s Champions Trophy is coming",
+            "tags": [
+                {
+                    "_translationId": "fb1469fc-6cec-4120-9ffb-724304572336",
+                    "_entityId": "de8874e6-eebc-4986-a549-a1662b3d77f5",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15782",
+                    "title": "ICC Women\u2019s Champions Trophy, 2027",
+                    "slug": "tournament-15782",
+                    "neutralSlug": "tournament-15782",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15782",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15782",
+                        "competitionType": "ODI International - w",
+                        "competitionTypeId": "12",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "43f31604-f957-43cc-aeb9-c142603bc3a8",
+                    "_entityId": "a07fb32e-7402-42b0-bf44-7b895c2fe807",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/news",
+                    "title": "News",
+                    "slug": "news",
+                    "neutralSlug": "news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "cb3704bb-1ccc-43e7-bb83-e0311a09b432",
+                    "_entityId": "36773f2a-487a-4edf-8ed8-d484f8fb5f9a",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/womens-news",
+                    "title": "Women's News",
+                    "slug": "womens-news",
+                    "neutralSlug": "womens-news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "e2696975-7408-446b-8447-57955bd48fb4",
+                "description": "ICC CEO Sanjog Gupta looks ahead to the inaugural Women\u2019s Champions Trophy, as a new chapter in women\u2019s cricket takes shape.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/105108155-WomensChampionsTrophy16x911.mp4",
+                "untrimmedDuration": "PT1M21S",
+                "videoDuration": "PT1M21S"
+            },
+            "createdBy": "Anuraag Prashanth",
+            "lastUpdatedBy": "Jonathan Healy",
+            "lastUpdatedDate": "2026-09-03T06:47:40.092Z",
+            "contentDate": "2026-09-02T14:51:01.611Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "GettyImages-2282724624",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/v5nctkneib0ty9bdqq0f",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/v5nctkneib0ty9bdqq0f",
+                "format": "jpg",
+                "overriddenFormats": {},
+                "slug": "gettyimages-2282724624",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/gettyimages-2282724624"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "d0b9af7f-56bd-4117-bf15-d78990008ff3",
+            "_entityId": "7a24cdeb-07fc-4696-9953-addb3a0b8d66",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/meet-thailand-s-rising-star-thipatcha-putthawong",
+            "slug": "meet-thailand-s-rising-star-thipatcha-putthawong",
+            "title": "Meet Thailand's rising star - Thipatcha Putthawong",
+            "tags": [
+                {
+                    "_translationId": "43f31604-f957-43cc-aeb9-c142603bc3a8",
+                    "_entityId": "a07fb32e-7402-42b0-bf44-7b895c2fe807",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/news",
+                    "title": "News",
+                    "slug": "news",
+                    "neutralSlug": "news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "6033927b-c672-4e95-8b86-25b36f79e94f",
+                    "_entityId": "a7987f30-bb20-454d-bfd7-c3814e2a0b30",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/player-70980",
+                    "title": "Thipatcha Putthawong 03/07/2004",
+                    "slug": "player-70980",
+                    "neutralSlug": "player-70980",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "player-70980",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "playerId": "70980",
+                        "gender": "F",
+                        "nationalityCode": "THA",
+                        "countryId": "230",
+                        "birthCountry": "",
+                        "skill": "Bowler",
+                        "battlingStyle": "Left Handed",
+                        "bowlingStyle": "Slow left-arm orthodox",
+                        "birthDate": "03/07/2004",
+                        "seoName": "thipatcha-putthawong",
+                        "externalTagType": "player"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "cb3704bb-1ccc-43e7-bb83-e0311a09b432",
+                    "_entityId": "36773f2a-487a-4edf-8ed8-d484f8fb5f9a",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/womens-news",
+                    "title": "Women's News",
+                    "slug": "womens-news",
+                    "neutralSlug": "womens-news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "105e4578-12ea-4a1e-889d-356ccdf02a8c",
+                "description": "Get to know Thailand's history maker and record-breaker star, Thipatcha Putthawong.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/666255588-PUTTHAWONGFEATURE1920x1080.mp4",
+                "untrimmedDuration": "PT1M46S",
+                "videoDuration": "PT1M46S"
+            },
+            "createdBy": "Anushka Karnail",
+            "lastUpdatedBy": "Jonathan Healy",
+            "lastUpdatedDate": "2026-09-03T00:09:59.991Z",
+            "contentDate": "2026-09-02T13:05:24.294Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "VJR065445 (1)",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/v1788353958/prd/gv5qol1u3fk6nyfakxml",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1788353958/prd/gv5qol1u3fk6nyfakxml",
+                "format": "jpg",
+                "overriddenFormats": {},
+                "slug": "vjr065445-1",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/vjr065445-1"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "da506977-2c22-4b0e-948f-dc1fe87afb1c",
+            "_entityId": "ddbfa1d5-d551-47ba-853b-fd7288ddfbc3",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/spain-v-portugal-final-match-highlights-icc-men-s-t20wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "spain-v-portugal-final-match-highlights-icc-men-s-t20wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Spain v Portugal | Final | Match Highlights | ICC Men's T20WC Europe Sub-Regional Qualifier C, 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "0f855890-2d13-4fe0-af4a-6220001cbe40",
+                    "_entityId": "294685d5-33da-4564-ac8f-99a472df511b",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272551",
+                    "title": "Spain vs Portugal - Final - 8/21/2026",
+                    "slug": "match-272551",
+                    "neutralSlug": "match-272551",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272551",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272551",
+                        "teamA": "Spain",
+                        "teamB": "Portugal",
+                        "teamAid": "1739",
+                        "teamBid": "1765",
+                        "teamAshort": "ESP",
+                        "teamBshort": "POR",
+                        "stage": "Final",
+                        "matchDateLocal": "8/21/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Final",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "spain-vs-portugal",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "description": "Portugal won the final of the ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026.",
+                "videoId": "73778368-cfb4-4e43-a97b-e19d5d63f2d1",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/222100423-SpainvsPortugal-MatchHighlights.mp4",
+                "untrimmedDuration": "PT4M59S",
+                "videoDuration": "PT4M59S"
+            },
+            "createdBy": "Divy Tripathi",
+            "lastUpdatedBy": "Rahul Pandey",
+            "lastUpdatedDate": "2026-08-22T17:22:27.012Z",
+            "contentDate": "2026-08-21T17:21:56.854Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "260821 Benjamin Spain vs Portugal Spain Yasir throwing the ball",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/g9bektfhx8lvjhy4dsvy",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/g9bektfhx8lvjhy4dsvy",
+                "format": "jpg",
+                "overriddenFormats": {},
+                "slug": "260821-benjamin-spain-vs-portugal-spain-yasir-throwing-the-ball",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/260821-benjamin-spain-vs-portugal-spain-yasir-throwing-the-ball"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "d4f8a5da-4a3f-44e0-a26b-446a4de47d8d",
+            "_entityId": "6a804cef-744f-409b-9eee-02a227e0d387",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/isle-of-man-v-israel-match-highlights-icc-men-s-t20wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "isle-of-man-v-israel-match-highlights-icc-men-s-t20wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Isle of Man v Israel | Match Highlights | ICC Men's T20WC Europe Sub-Regional Qualifier C, 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "8a23c0fc-4e93-433c-a2d2-16520bc88945",
+                    "_entityId": "d4aa641b-5f8a-460e-b8e7-ecff00a49bd7",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272549",
+                    "title": "Isle of Man vs Israel - 5th Place Play-off - 8/21/2026",
+                    "slug": "match-272549",
+                    "neutralSlug": "match-272549",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272549",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272549",
+                        "teamA": "Isle of Man",
+                        "teamB": "Israel",
+                        "teamAid": "1805",
+                        "teamBid": "1803",
+                        "teamAshort": "IOM",
+                        "teamBshort": "ISR",
+                        "stage": "Playoffs",
+                        "matchDateLocal": "8/21/2026",
+                        "matchType": "T20",
+                        "matchNumber": "5th Place Play-off",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "isle-of-man-vs-israel",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "a03ec2a4-1373-4658-8329-b060c1d332b8",
+                "description": "isle of Man vs Israel Match Highlights (1).mp4 (2026-08-21 17:01:13Z)",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/237345165-IsleofManvsIsraelMatchHighlights1.mp4",
+                "untrimmedDuration": "PT5M12S",
+                "videoDuration": "PT5M12S"
+            },
+            "createdBy": "Anuraag Prashanth",
+            "lastUpdatedBy": "Anuraag Prashanth",
+            "lastUpdatedDate": "2026-08-21T17:09:24.914Z",
+            "contentDate": "2026-08-21T17:09:24.914Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "a03ec2a4-1373-4658-8329-b060c1d332b8-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/oas8kjhycfcdllfoxlmr",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/oas8kjhycfcdllfoxlmr",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "a03ec2a4-1373-4658-8329-b060c1d332b8-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/a03ec2a4-1373-4658-8329-b060c1d332b8-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "c106195b-a23a-4e3e-90b1-f773bfbc6900",
+            "_entityId": "84c09409-7f27-4bef-817e-68a84a4871a9",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-finland-match-highlights-icc-men-s-t20wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "germany-v-finland-match-highlights-icc-men-s-t20wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Finland v Germany | Match Highlights | ICC Men's T20WC Europe Sub-Regional Qualifier C, 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ff1a34ce-0034-4351-b33d-eb877d9fdb56",
+                    "_entityId": "2baef32c-f4ef-43c3-9dac-d69389bb5eda",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272545",
+                    "title": "Finland vs Germany - 3rd Place Play-off - 8/21/2026",
+                    "slug": "match-272545",
+                    "neutralSlug": "match-272545",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272545",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272545",
+                        "teamA": "Finland",
+                        "teamB": "Germany",
+                        "teamAid": "1828",
+                        "teamBid": "1822",
+                        "teamAshort": "FIN",
+                        "teamBshort": "GER",
+                        "stage": "Playoffs",
+                        "matchDateLocal": "8/21/2026",
+                        "matchType": "T20",
+                        "matchNumber": "3rd Place Play-off",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "finland-vs-germany",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "5602fea5-9334-4a32-9a5e-747f4191389b",
+                "description": "",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/230160867-GermanyvsFinlandMatchHighlight.mp4",
+                "untrimmedDuration": "PT5M4S",
+                "videoDuration": "PT5M4S"
+            },
+            "createdBy": "Anuraag Prashanth",
+            "lastUpdatedBy": "Divy Tripathi",
+            "lastUpdatedDate": "2026-08-21T17:23:27.208Z",
+            "contentDate": "2026-08-21T14:07:36.789Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "260821 Benjamin Finland vs Germany Finland Abbas celebrating",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ng8c0pap5rlmt1jtsaol",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/ng8c0pap5rlmt1jtsaol",
+                "format": "jpg",
+                "overriddenFormats": {},
+                "slug": "260821-benjamin-finland-vs-germany-finland-abbas-celebrating",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/260821-benjamin-finland-vs-germany-finland-abbas-celebrating"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "3a4a9b16-ba70-4b8f-91c6-c3ef6092d492",
+            "_entityId": "20a70882-b4d1-4279-abde-c7885c3b9d0d",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/czechia-v-bulgaria-match-highlights-icc-men-s-t20-world-cup-europe-sub-regional-qualifier-c-2026",
+            "slug": "czechia-v-bulgaria-match-highlights-icc-men-s-t20-world-cup-europe-sub-regional-qualifier-c-2026",
+            "title": "Czechia v Bulgaria | Match Highlights | ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "b98da822-2763-4b47-82fb-87fb74f2db2d",
+                    "_entityId": "d6c7dc3b-543d-4ffe-a45a-9865741fd90d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272548",
+                    "title": "Bulgaria vs Czechia - 7th Place Play-off - 8/21/2026",
+                    "slug": "match-272548",
+                    "neutralSlug": "match-272548",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272548",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272548",
+                        "teamA": "Bulgaria",
+                        "teamB": "Czechia",
+                        "teamAid": "1859",
+                        "teamBid": "1835",
+                        "teamAshort": "BUL",
+                        "teamBshort": "CZE",
+                        "stage": "Playoffs",
+                        "matchDateLocal": "8/21/2026",
+                        "matchType": "T20",
+                        "matchNumber": "7th Place Play-off",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "bulgaria-vs-czechia",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "09d0e637-1d5e-46c2-a89d-ac49ae95e25b",
+                "description": "",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/302761177-CzechRepublicvsBulgaria-MatchHighlights.mp4",
+                "untrimmedDuration": "PT6M43S",
+                "videoDuration": "PT6M43S"
+            },
+            "createdBy": "Anuraag Prashanth",
+            "lastUpdatedBy": "Daniel Beswick",
+            "lastUpdatedDate": "2026-09-10T00:22:33.059Z",
+            "contentDate": "2026-08-21T07:31:12.796Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "09d0e637-1d5e-46c2-a89d-ac49ae95e25b-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/zliumfdisvv3ia1fcubx",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/zliumfdisvv3ia1fcubx",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "09d0e637-1d5e-46c2-a89d-ac49ae95e25b-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/09d0e637-1d5e-46c2-a89d-ac49ae95e25b-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "7edf0ed0-f2a6-424d-b72e-32f6fd0e2c84",
+            "_entityId": "29612271-3b69-491d-b994-0fa679a01726",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/moises-henriques-innings-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "moises-henriques-innings-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Moises Henriques Century Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "43f31604-f957-43cc-aeb9-c142603bc3a8",
+                    "_entityId": "a07fb32e-7402-42b0-bf44-7b895c2fe807",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/news",
+                    "title": "News",
+                    "slug": "news",
+                    "neutralSlug": "news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "1437126c-7afe-4d4e-9740-4d8242b2b7be",
+                    "_entityId": "bc49dc68-29f3-42e0-8949-1b988fa5383e",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/player-4957",
+                    "title": "Moises Henriques 02/01/1987",
+                    "slug": "player-4957",
+                    "neutralSlug": "player-4957",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "player-4957",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "playerId": "4957",
+                        "gender": "M",
+                        "nationalityCode": "AUS",
+                        "countryId": "1",
+                        "birthCountry": "Portugal",
+                        "skill": "All-Rounder",
+                        "battlingStyle": "Right Handed",
+                        "bowlingStyle": "Right-arm fast medium",
+                        "birthDate": "02/01/1987",
+                        "seoName": "moises-henriques",
+                        "externalTagType": "player"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "b0b4d362-4a5e-488f-ab8e-dd3139eaab29",
+                    "_entityId": "bb6116cf-b1ad-4da1-bc92-fd30c8d689e1",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272539",
+                    "title": "Czechia vs Portugal - Match 18 - 8/20/2026",
+                    "slug": "match-272539",
+                    "neutralSlug": "match-272539",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272539",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272539",
+                        "teamA": "Czechia",
+                        "teamB": "Portugal",
+                        "teamAid": "1835",
+                        "teamBid": "1765",
+                        "teamAshort": "CZE",
+                        "teamBshort": "POR",
+                        "stage": "Group",
+                        "matchDateLocal": "8/20/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 18",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "czechia-vs-portugal",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "2a727109-cc49-4d96-8942-9c1cb70025ab",
+                "description": "Watch the highlights of Moises Henriques' superb century for Portugal against Czechia at the **2026 ICC Men's T20 World Cup Europe Sub-regional Qualifier C**",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/160516379-MoisesHenriques_Half_Century.mp4",
+                "untrimmedDuration": "PT3M26S",
+                "videoDuration": "PT3M26S"
+            },
+            "createdBy": "Jonathan Healy",
+            "lastUpdatedBy": "Jonathan Healy",
+            "lastUpdatedDate": "2026-08-21T00:36:58.572Z",
+            "contentDate": "2026-08-20T23:34:12.385Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "Moises thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/xcwryjirq4mt4ixfh9sb",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/xcwryjirq4mt4ixfh9sb",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "moises-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/moises-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "bd2c5d1e-2b6e-4362-975d-7b9992afcb84",
+            "_entityId": "1427c12f-fa2b-45a3-a467-c6a08f826a31",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/czechia-v-portugal-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "czechia-v-portugal-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Czechia v Portugal | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "43f31604-f957-43cc-aeb9-c142603bc3a8",
+                    "_entityId": "a07fb32e-7402-42b0-bf44-7b895c2fe807",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/news",
+                    "title": "News",
+                    "slug": "news",
+                    "neutralSlug": "news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "b0b4d362-4a5e-488f-ab8e-dd3139eaab29",
+                    "_entityId": "bb6116cf-b1ad-4da1-bc92-fd30c8d689e1",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272539",
+                    "title": "Czechia vs Portugal - Match 18 - 8/20/2026",
+                    "slug": "match-272539",
+                    "neutralSlug": "match-272539",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272539",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272539",
+                        "teamA": "Czechia",
+                        "teamB": "Portugal",
+                        "teamAid": "1835",
+                        "teamBid": "1765",
+                        "teamAshort": "CZE",
+                        "teamBshort": "POR",
+                        "stage": "Group",
+                        "matchDateLocal": "8/20/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 18",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "czechia-vs-portugal",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "7b57a269-b943-476e-9d17-0f412745fda4",
+                "description": "Watch the match highlights as Portugal defeat Czechia by 91 runs (DLS method) at the ICC Men's T20 World Cup Europe Sub Regional Qualifier C.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/224163325-CzechRepublicvsPortugal-MatchHighlight.mp4",
+                "untrimmedDuration": "PT4M56S",
+                "videoDuration": "PT4M56S"
+            },
+            "createdBy": "Rahul Pandey",
+            "lastUpdatedBy": "Rahul Pandey",
+            "lastUpdatedDate": "2026-08-20T19:14:06.736Z",
+            "contentDate": "2026-08-20T12:27:59.259Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "Henriques v Czech Republic",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/fwk985j2ycdxwfucfssv",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/fwk985j2ycdxwfucfssv",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "henriques-v-czech-republic",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/henriques-v-czech-republic"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "077968dd-03f2-4c9e-a373-523af2ad14fe",
+            "_entityId": "ea062cde-41ad-4961-ab97-837adea9d44c",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/greece-v-israel-match-highlights-icc-men-s-t20-world-cup-europe-sub-regional-qualifier-c-2026",
+            "slug": "greece-v-israel-match-highlights-icc-men-s-t20-world-cup-europe-sub-regional-qualifier-c-2026",
+            "title": "Greece v Israel | Match Highlights | ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ab3bcf74-3958-42dd-a54c-c2467de36400",
+                    "_entityId": "6bb6a289-0996-4567-9e8e-51fcb9e1fe17",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272542",
+                    "title": "Greece vs Israel - Match 20 - 8/20/2026",
+                    "slug": "match-272542",
+                    "neutralSlug": "match-272542",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272542",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272542",
+                        "teamA": "Greece",
+                        "teamB": "Israel",
+                        "teamAid": "1816",
+                        "teamBid": "1803",
+                        "teamAshort": "GRE",
+                        "teamBshort": "ISR",
+                        "stage": "Group",
+                        "matchDateLocal": "8/20/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 20",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "greece-vs-israel",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "9fca9282-8890-4fbf-b1ef-0d5ca2da2642",
+                "description": "",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/275064348-GreecevsIsrael-MatchHighlights.mp4",
+                "untrimmedDuration": "PT6M5S",
+                "videoDuration": "PT6M5S"
+            },
+            "createdBy": "Anuraag Prashanth",
+            "lastUpdatedBy": "Daniel Beswick",
+            "lastUpdatedDate": "2026-09-10T00:24:15.937Z",
+            "contentDate": "2026-08-20T07:33:10.734Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "9fca9282-8890-4fbf-b1ef-0d5ca2da2642-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ieayafi8ikwrumbap105",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/ieayafi8ikwrumbap105",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "9fca9282-8890-4fbf-b1ef-0d5ca2da2642-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/9fca9282-8890-4fbf-b1ef-0d5ca2da2642-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "b2af8621-679d-40eb-86e7-98b31d15588b",
+            "_entityId": "2eec5c05-17fd-4e85-8c36-c200ee8fae33",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bulgaria-v-luxembourg-match-highlights-icc-men-s-t20-world-cup-europe-sub-regional-qualifier-c-2026",
+            "slug": "bulgaria-v-luxembourg-match-highlights-icc-men-s-t20-world-cup-europe-sub-regional-qualifier-c-2026",
+            "title": "Bulgaria v Luxembourg | Match Highlights | ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "43f31604-f957-43cc-aeb9-c142603bc3a8",
+                    "_entityId": "a07fb32e-7402-42b0-bf44-7b895c2fe807",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/news",
+                    "title": "News",
+                    "slug": "news",
+                    "neutralSlug": "news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "fd8ce6e3-c353-4d0d-b4ca-d474f14c2fd7",
+                    "_entityId": "5ffa4e26-c58f-466c-b513-2b562bb42bb5",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272537",
+                    "title": "Bulgaria vs Luxembourg - Match 17 - 8/20/2026",
+                    "slug": "match-272537",
+                    "neutralSlug": "match-272537",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272537",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272537",
+                        "teamA": "Bulgaria",
+                        "teamB": "Luxembourg",
+                        "teamAid": "1859",
+                        "teamBid": "1793",
+                        "teamAshort": "BUL",
+                        "teamBshort": "LUX",
+                        "stage": "Group",
+                        "matchDateLocal": "8/20/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 17",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "bulgaria-vs-luxembourg",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "85579eb4-bb33-47ae-a94a-0b8720a2c5b0",
+                "description": "Watch the match highlights as Bulgaria take on Luxembourg at the ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/262418855-BulgariavsLuxembourg-MatchHighlights.mp4",
+                "untrimmedDuration": "PT5M40S",
+                "videoDuration": "PT5M40S"
+            },
+            "createdBy": "Jonathan Healy",
+            "lastUpdatedBy": "Daniel Beswick",
+            "lastUpdatedDate": "2026-09-10T00:27:42.05Z",
+            "contentDate": "2026-08-20T06:30:39.999Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "85579eb4-bb33-47ae-a94a-0b8720a2c5b0-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/kdgaaskt7e9kdjhez4pu",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/kdgaaskt7e9kdjhez4pu",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "85579eb4-bb33-47ae-a94a-0b8720a2c5b0-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/85579eb4-bb33-47ae-a94a-0b8720a2c5b0-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "2eed369e-9bb8-4fe9-a367-b3dc3d6debf0",
+            "_entityId": "6fd7e394-4c31-4c30-b4d4-43b4ffe415a5",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/czech-republic-v-israel-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "czech-republic-v-israel-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Czech Republic v Israel | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "43f31604-f957-43cc-aeb9-c142603bc3a8",
+                    "_entityId": "a07fb32e-7402-42b0-bf44-7b895c2fe807",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/news",
+                    "title": "News",
+                    "slug": "news",
+                    "neutralSlug": "news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "6dd0ae63-0b45-4df5-82b3-c963b72ce95b",
+                    "_entityId": "c9ec385f-ea97-448f-810c-2c56757466bc",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272534",
+                    "title": "Czechia vs Israel - Match 15 - 8/18/2026",
+                    "slug": "match-272534",
+                    "neutralSlug": "match-272534",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272534",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272534",
+                        "teamA": "Czechia",
+                        "teamB": "Israel",
+                        "teamAid": "1835",
+                        "teamBid": "1803",
+                        "teamAshort": "CZE",
+                        "teamBshort": "ISR",
+                        "stage": "Group",
+                        "matchDateLocal": "8/18/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 15",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "czechia-vs-israel",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "f9486fd4-9645-449c-9114-ea58549a48df",
+                "description": "Watch the match highlights as Czech Republic defeat Israel by seven wickets at the ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/216850126-CzecRepublicvsIsrael-MatchHighlights.mp4",
+                "untrimmedDuration": "PT4M47S",
+                "videoDuration": "PT4M47S"
+            },
+            "createdBy": "Jonathan Healy",
+            "lastUpdatedBy": "Jonathan Healy",
+            "lastUpdatedDate": "2026-08-18T23:24:09.171Z",
+            "contentDate": "2026-08-18T23:24:09.171Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "f9486fd4-9645-449c-9114-ea58549a48df-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/hwwh3prrto7ghulbwas9",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/hwwh3prrto7ghulbwas9",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "f9486fd4-9645-449c-9114-ea58549a48df-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/f9486fd4-9645-449c-9114-ea58549a48df-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "b0d28321-5166-49f5-8398-29debd5fc1af",
+            "_entityId": "22d92f02-8da7-4a17-9af3-7d81cb559f39",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bulgaria-v-spain-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "bulgaria-v-spain-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Bulgaria v Spain | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "43f31604-f957-43cc-aeb9-c142603bc3a8",
+                    "_entityId": "a07fb32e-7402-42b0-bf44-7b895c2fe807",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/news",
+                    "title": "News",
+                    "slug": "news",
+                    "neutralSlug": "news",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "175ebbbd-c4e5-4e5a-9059-43fd3c05509a",
+                    "_entityId": "96ba2d59-0ff6-4d22-8b29-e0f9420b6281",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272535",
+                    "title": "Bulgaria vs Spain - Match 16 - 8/18/2026",
+                    "slug": "match-272535",
+                    "neutralSlug": "match-272535",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272535",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272535",
+                        "teamA": "Bulgaria",
+                        "teamB": "Spain",
+                        "teamAid": "1859",
+                        "teamBid": "1739",
+                        "teamAshort": "BUL",
+                        "teamBshort": "ESP",
+                        "stage": "Group",
+                        "matchDateLocal": "8/18/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 16",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "bulgaria-vs-spain",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "62fa06bb-bde5-4675-9fac-4a1a4fc11a70",
+                "description": "Watch the match highlights as Spain defeated Bulgaria by nine wickets at the ICC Men's T20 World Cup Europe Sub Regional Qualifier C",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/224006374-BulgariavsSpainMatchHighlight.mp4",
+                "untrimmedDuration": "PT4M53S",
+                "videoDuration": "PT4M53S"
+            },
+            "createdBy": "Jonathan Healy",
+            "lastUpdatedBy": "Jonathan Healy",
+            "lastUpdatedDate": "2026-08-18T23:23:04.389Z",
+            "contentDate": "2026-08-18T23:23:04.389Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "62fa06bb-bde5-4675-9fac-4a1a4fc11a70-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/b5flxct6ujoawjporjxi",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/b5flxct6ujoawjporjxi",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "62fa06bb-bde5-4675-9fac-4a1a4fc11a70-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/62fa06bb-bde5-4675-9fac-4a1a4fc11a70-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "32bc052f-d208-494d-aa49-c984fd14bd0d",
+            "_entityId": "eb0c67de-0e71-44aa-95ae-b5b35baca0ac",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-v-italy-match-highlights-icc-cwc-challenge-league-b",
+            "slug": "tanzania-v-italy-match-highlights-icc-cwc-challenge-league-b",
+            "title": "Tanzania v Italy | Match Highlights | ICC CWC Challenge League B",
+            "tags": [
+                {
+                    "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+                    "_entityId": "920ce214-b048-44de-8cac-909452024176",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+                    "title": "ICC CWC Challenge League B, 2024-26",
+                    "slug": "tournament-8271",
+                    "neutralSlug": "tournament-8271",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-8271",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "8271",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "c69c8d61-2460-4953-bee2-cbfe03cda7f2",
+                    "_entityId": "3679ff4f-dfa5-4a21-846f-061ce603cabc",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272662",
+                    "title": "Tanzania vs Italy - Match 44 - 8/18/2026",
+                    "slug": "match-272662",
+                    "neutralSlug": "match-272662",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272662",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272662",
+                        "teamA": "Tanzania",
+                        "teamB": "Italy",
+                        "teamAid": "1731",
+                        "teamBid": "1298",
+                        "teamAshort": "TAN",
+                        "teamBshort": "ITA",
+                        "stage": "League",
+                        "matchDateLocal": "8/18/2026",
+                        "matchType": "List A",
+                        "matchNumber": "Match 44",
+                        "seriesId": "8271",
+                        "seriesName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesType": "Tournament",
+                        "tourId": "7092",
+                        "tourName": "ICC CWC Challenge League B, 2024-26",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "seoName": "tanzania-vs-italy",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "description": "Watch the match highlights as Italy beat Tanzania by 8 wickets\u00a0in the ICC CWC Challenge League B.",
+                "videoId": "bfd37ed5-a195-4c8d-93e3-adf47a0dd9dd",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/414302709-TanzaniavsItalyFullMatchHighlight.mp4",
+                "untrimmedDuration": "PT9M2S",
+                "videoDuration": "PT9M2S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+            "lastUpdatedDate": "2026-08-18T13:54:33.65Z",
+            "contentDate": "2026-08-18T13:47:13.276Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "bfd37ed5-a195-4c8d-93e3-adf47a0dd9dd-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/de72i2a77lhkpcn7rhyw",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/de72i2a77lhkpcn7rhyw",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "bfd37ed5-a195-4c8d-93e3-adf47a0dd9dd-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/bfd37ed5-a195-4c8d-93e3-adf47a0dd9dd-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "b10469a4-5f98-473d-a743-0820084cc2e7",
+            "_entityId": "9cb1e32e-4b14-4525-9114-a7a886f828af",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/finland-v-luxembourg-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "finland-v-luxembourg-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Finland v Luxembourg | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "05282a1e-e21a-403c-9f70-37da4978f99b",
+                    "_entityId": "78ac88cb-283f-4c83-8d78-d9c456a16cae",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272533",
+                    "title": "Finland vs Luxembourg - Match 14 - 8/18/2026",
+                    "slug": "match-272533",
+                    "neutralSlug": "match-272533",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272533",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272533",
+                        "teamA": "Finland",
+                        "teamB": "Luxembourg",
+                        "teamAid": "1828",
+                        "teamBid": "1793",
+                        "teamAshort": "FIN",
+                        "teamBshort": "LUX",
+                        "stage": "Group",
+                        "matchDateLocal": "8/18/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 14",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "finland-vs-luxembourg",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "36c13a50-391b-4252-aa19-6658517d3564",
+                "description": "Watch the match highlights as Germany beat Greece by 7 wickets\u00a0in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/256758089-FinlandvsLuxembourgMatchHighlight.mp4",
+                "untrimmedDuration": "PT5M39S",
+                "videoDuration": "PT5M39S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-18T12:07:04.68Z",
+            "contentDate": "2026-08-18T12:07:04.68Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "36c13a50-391b-4252-aa19-6658517d3564-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/lsg7kt4oina3hnwhrugh",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/lsg7kt4oina3hnwhrugh",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "36c13a50-391b-4252-aa19-6658517d3564-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/36c13a50-391b-4252-aa19-6658517d3564-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "b85a3e75-7e8e-425a-80b1-a90e12774007",
+            "_entityId": "bed2f3e2-b5bb-4955-acc2-07e9cd68c486",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-greece-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "germany-v-greece-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Germany v Greece | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "0c80f5ce-9192-41ee-bad0-0eadf358c85f",
+                    "_entityId": "e0748bed-a1fe-4dc3-b2e9-19ba3892d154",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272532",
+                    "title": "Germany vs Greece - Match 13 - 8/18/2026",
+                    "slug": "match-272532",
+                    "neutralSlug": "match-272532",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272532",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272532",
+                        "teamA": "Germany",
+                        "teamB": "Greece",
+                        "teamAid": "1822",
+                        "teamBid": "1816",
+                        "teamAshort": "GER",
+                        "teamBshort": "GRE",
+                        "stage": "Group",
+                        "matchDateLocal": "8/18/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 13",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "germany-vs-greece",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "5bc1ce8a-e81d-4d12-b0d0-4d242c8692a3",
+                "description": "Watch the match highlights as Germany beat Greece by 7 wickets\u00a0in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/219124792-GermanyvsGreece-MatchHighlights.mp4",
+                "untrimmedDuration": "PT4M57S",
+                "videoDuration": "PT4M57S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "icc-forge-diva-connector-worker-client",
+            "lastUpdatedDate": "2026-08-18T12:07:31.113Z",
+            "contentDate": "2026-08-18T12:05:07.381Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "5bc1ce8a-e81d-4d12-b0d0-4d242c8692a3-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/e0ptgrrebjynpj9lj5s6",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/e0ptgrrebjynpj9lj5s6",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "5bc1ce8a-e81d-4d12-b0d0-4d242c8692a3-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/5bc1ce8a-e81d-4d12-b0d0-4d242c8692a3-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "f89f0223-7f13-4e22-b794-254535ec7b86",
+            "_entityId": "59f056b0-79ca-45ce-9b06-3bb09490ab16",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/luxembourg-v-spain-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "luxembourg-v-spain-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Luxembourg v Spain | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "7ffea329-9d43-4ab1-bb7b-120eab0df855",
+                    "_entityId": "846ae01d-26ac-49ba-830a-9e5477b3249e",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272531",
+                    "title": "Luxembourg vs Spain - Match 12 - 8/17/2026",
+                    "slug": "match-272531",
+                    "neutralSlug": "match-272531",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272531",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272531",
+                        "teamA": "Luxembourg",
+                        "teamB": "Spain",
+                        "teamAid": "1793",
+                        "teamBid": "1739",
+                        "teamAshort": "LUX",
+                        "teamBshort": "ESP",
+                        "stage": "Group",
+                        "matchDateLocal": "8/17/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 12",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "luxembourg-vs-spain",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "description": "Watch the match highlights as Spain beat Luxembourg by 141 runs in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "videoId": "e328286c-e8da-494c-a545-678d11f4d42b",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/228472321-LuxembourgvsSpainMatchHighlight.mp4",
+                "untrimmedDuration": "PT4M58S",
+                "videoDuration": "PT4M58S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T18:34:00.912Z",
+            "contentDate": "2026-08-17T18:34:00.912Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "e328286c-e8da-494c-a545-678d11f4d42b-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/t11kiwk2rdpnpynmj7nm",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/t11kiwk2rdpnpynmj7nm",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "e328286c-e8da-494c-a545-678d11f4d42b-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/e328286c-e8da-494c-a545-678d11f4d42b-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "17d64e81-55dc-4eac-be7a-72741fe2bdfd",
+            "_entityId": "9130bcd7-067e-4b69-8fb0-fe741d9f25b8",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/greece-v-portugal-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "greece-v-portugal-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Greece v Portugal | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "0d6eb3f8-c752-40f1-b18f-5f8902940b9e",
+                    "_entityId": "f905f0c5-5e93-4568-8da5-1bd8f66ef1dc",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272530",
+                    "title": "Greece vs Portugal - Match 11 - 8/17/2026",
+                    "slug": "match-272530",
+                    "neutralSlug": "match-272530",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272530",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272530",
+                        "teamA": "Greece",
+                        "teamB": "Portugal",
+                        "teamAid": "1816",
+                        "teamBid": "1765",
+                        "teamAshort": "GRE",
+                        "teamBshort": "POR",
+                        "stage": "Group",
+                        "matchDateLocal": "8/17/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 11",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "greece-vs-portugal",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "c554b2cf-8a72-4038-a27d-0e091bf9bfd4",
+                "description": "Watch the match highlights as Portugal beat Greece by 7 wickets\u00a0in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/226064189-GreecevsPortugal-MatchHighllight.mp4",
+                "untrimmedDuration": "PT4M55S",
+                "videoDuration": "PT4M55S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T17:07:13.491Z",
+            "contentDate": "2026-08-17T17:07:13.491Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "c554b2cf-8a72-4038-a27d-0e091bf9bfd4-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/ryu5e5qgado0sbwyfxcd",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/ryu5e5qgado0sbwyfxcd",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "c554b2cf-8a72-4038-a27d-0e091bf9bfd4-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/c554b2cf-8a72-4038-a27d-0e091bf9bfd4-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "005edfbc-307d-4332-a7a3-051a60acbb94",
+            "_entityId": "24fb99d2-e7d5-4e53-8dca-a901c716b2e0",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/hong-kong-china-v-italy-match-highlights-icc-cwc-challenge-league-b",
+            "slug": "hong-kong-china-v-italy-match-highlights-icc-cwc-challenge-league-b",
+            "title": "Hong Kong, China v Italy | Match Highlights | ICC CWC Challenge League B",
+            "tags": [
+                {
+                    "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+                    "_entityId": "920ce214-b048-44de-8cac-909452024176",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+                    "title": "ICC CWC Challenge League B, 2024-26",
+                    "slug": "tournament-8271",
+                    "neutralSlug": "tournament-8271",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-8271",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "8271",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "6e18b585-dec8-48e9-93b5-ebb7f59c6e8a",
+                    "_entityId": "dfe43625-cbfe-4e7e-b4aa-90550244305c",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272660",
+                    "title": "Hong Kong, China vs Italy - Match 42 - 8/17/2026",
+                    "slug": "match-272660",
+                    "neutralSlug": "match-272660",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272660",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272660",
+                        "teamA": "Hong Kong, China",
+                        "teamB": "Italy",
+                        "teamAid": "19",
+                        "teamBid": "1298",
+                        "teamAshort": "HK",
+                        "teamBshort": "ITA",
+                        "stage": "League",
+                        "matchDateLocal": "8/17/2026",
+                        "matchType": "List A",
+                        "matchNumber": "Match 42",
+                        "seriesId": "8271",
+                        "seriesName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesType": "Tournament",
+                        "tourId": "7092",
+                        "tourName": "ICC CWC Challenge League B, 2024-26",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "seoName": "hong-kong-china-vs-italy",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "c5762c4a-9b4f-477a-9165-2b3484d3dd38",
+                "description": "Watch the match highlights as Italy beat Hong Kong, China by 6 wickets\u00a0in the ICC CWC Challenge League B.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/218780315-HongKongvsItalyMatchHighlight.mp4",
+                "untrimmedDuration": "PT4M48S",
+                "videoDuration": "PT4M48S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T14:56:28.815Z",
+            "contentDate": "2026-08-17T14:53:54.346Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "c5762c4a-9b4f-477a-9165-2b3484d3dd38-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/j1fg367bs3gv8ii0baod",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/j1fg367bs3gv8ii0baod",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "c5762c4a-9b4f-477a-9165-2b3484d3dd38-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/c5762c4a-9b4f-477a-9165-2b3484d3dd38-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "35981367-556d-4ebf-a566-d8c7cb6665bd",
+            "_entityId": "83f4bbb6-527a-418c-bc9f-2b44c5cb41e8",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/bulgaria-v-isle-of-man-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "bulgaria-v-isle-of-man-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Bulgaria v Isle of Man | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "734f3e9f-ea84-4238-bc22-4a98de5eac4d",
+                    "_entityId": "69aa748a-8177-45d4-bf85-b690a31e6095",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272529",
+                    "title": "Bulgaria vs Isle of Man - Match 10 - 8/17/2026",
+                    "slug": "match-272529",
+                    "neutralSlug": "match-272529",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272529",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272529",
+                        "teamA": "Bulgaria",
+                        "teamB": "Isle of Man",
+                        "teamAid": "1859",
+                        "teamBid": "1805",
+                        "teamAshort": "BUL",
+                        "teamBshort": "IOM",
+                        "stage": "Group",
+                        "matchDateLocal": "8/17/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 10",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "bulgaria-vs-isle-of-man",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "322fb5d6-3e42-42bf-8785-c81ac08dd694",
+                "description": "Watch the match highlights as Isle of Man beat Bulgaria by 89 runs in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/225117254-BulgariavsIsleofManFullMatchHighlight.mp4",
+                "untrimmedDuration": "PT4M56S",
+                "videoDuration": "PT4M56S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T11:43:12.886Z",
+            "contentDate": "2026-08-17T11:43:12.886Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "322fb5d6-3e42-42bf-8785-c81ac08dd694-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/t57ieu87yv7txieiivw8",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/t57ieu87yv7txieiivw8",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "322fb5d6-3e42-42bf-8785-c81ac08dd694-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/322fb5d6-3e42-42bf-8785-c81ac08dd694-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "34035c4e-3578-427e-9b5c-fdfedbbd041a",
+            "_entityId": "7509a3b3-6db5-4554-8eb7-02025f8eb8d1",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/tanzania-vs-bahrain-match-highlights-icc-cwc-challenge-league-b",
+            "slug": "tanzania-vs-bahrain-match-highlights-icc-cwc-challenge-league-b",
+            "title": "Tanzania vs Bahrain | Match Highlights | ICC CWC Challenge League B",
+            "tags": [
+                {
+                    "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+                    "_entityId": "920ce214-b048-44de-8cac-909452024176",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+                    "title": "ICC CWC Challenge League B, 2024-26",
+                    "slug": "tournament-8271",
+                    "neutralSlug": "tournament-8271",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-8271",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "8271",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "2bee5fc9-4fda-4132-9f83-394729c5edf4",
+                    "_entityId": "f144b972-904f-47dd-b9d4-9812aae9ed3b",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272659",
+                    "title": "Tanzania vs Bahrain - Match 41 - 8/15/2026",
+                    "slug": "match-272659",
+                    "neutralSlug": "match-272659",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272659",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272659",
+                        "teamA": "Tanzania",
+                        "teamB": "Bahrain",
+                        "teamAid": "1731",
+                        "teamBid": "1872",
+                        "teamAshort": "TAN",
+                        "teamBshort": "BRN",
+                        "stage": "League",
+                        "matchDateLocal": "8/15/2026",
+                        "matchType": "List A",
+                        "matchNumber": "Match 41",
+                        "seriesId": "8271",
+                        "seriesName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesType": "Tournament",
+                        "tourId": "7092",
+                        "tourName": "ICC CWC Challenge League B, 2024-26",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "seoName": "tanzania-vs-bahrain",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "8a5917db-5e16-4c34-ae35-abbe13954aa8",
+                "description": "Watch the match highlights as Tanzania beat Bahrain by 5 wickets in the ICC CWC Challenge League B.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/256181651-TanzaniavsBahrain-MatchHighlights.mp4",
+                "untrimmedDuration": "PT5M33S",
+                "videoDuration": "PT5M33S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T11:38:43.048Z",
+            "contentDate": "2026-08-17T11:38:43.048Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "8a5917db-5e16-4c34-ae35-abbe13954aa8-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/rptqjbmtxwh93umjye5s",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/rptqjbmtxwh93umjye5s",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "8a5917db-5e16-4c34-ae35-abbe13954aa8-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/8a5917db-5e16-4c34-ae35-abbe13954aa8-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "0ea27b20-933b-4380-abe8-e33fc5bdaf12",
+            "_entityId": "ac76af2a-4722-4f92-8910-1730cf107f5e",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/singapore-vs-uganda-match-highlights-icc-cwc-challenge-league-b",
+            "slug": "singapore-vs-uganda-match-highlights-icc-cwc-challenge-league-b",
+            "title": "Singapore vs Uganda | Match Highlights | ICC CWC Challenge League B",
+            "tags": [
+                {
+                    "_translationId": "f6a86c44-ad06-4c19-9900-176d212bc677",
+                    "_entityId": "920ce214-b048-44de-8cac-909452024176",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8271",
+                    "title": "ICC CWC Challenge League B, 2024-26",
+                    "slug": "tournament-8271",
+                    "neutralSlug": "tournament-8271",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-8271",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "8271",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "9b7d6056-3b74-45e0-9b6b-365dd51d22fb",
+                    "_entityId": "aed57bff-c045-4858-b552-2a81afe8de3e",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272658",
+                    "title": "Singapore vs Uganda - Match 40 - 8/15/2026",
+                    "slug": "match-272658",
+                    "neutralSlug": "match-272658",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272658",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272658",
+                        "teamA": "Singapore",
+                        "teamB": "Uganda",
+                        "teamAid": "1565",
+                        "teamBid": "29",
+                        "teamAshort": "SIN",
+                        "teamBshort": "UGA",
+                        "stage": "League",
+                        "matchDateLocal": "8/15/2026",
+                        "matchType": "List A",
+                        "matchNumber": "Match 40",
+                        "seriesId": "8271",
+                        "seriesName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesShortName": "ICC CWC Challenge League B, 2024-26",
+                        "seriesType": "Tournament",
+                        "tourId": "7092",
+                        "tourName": "ICC CWC Challenge League B, 2024-26",
+                        "competitionType": "List A Domestic - m",
+                        "competitionTypeId": "5",
+                        "seoName": "singapore-vs-uganda",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "19f04581-721a-4136-8407-14229348bb8d",
+                "description": "Watch the match highlights as Uganda beat Singapore by 8 wickets in the ICC CWC Challenge League B.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/239161289-SingaporevsUganda-MatchHighlights.mp4",
+                "untrimmedDuration": "PT5M11S",
+                "videoDuration": "PT5M11S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T11:38:25.806Z",
+            "contentDate": "2026-08-17T11:38:25.806Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "19f04581-721a-4136-8407-14229348bb8d-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/pamtydhuhvqtaybckya8",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/pamtydhuhvqtaybckya8",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "19f04581-721a-4136-8407-14229348bb8d-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/19f04581-721a-4136-8407-14229348bb8d-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "400621b5-64c0-499c-bbb9-62b8924bcb91",
+            "_entityId": "30da0e51-b6e6-43d5-b5f3-f23bf1b3ce5e",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-israel-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "germany-v-israel-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Germany v Israel | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "1db723f3-3496-49a3-a3f2-c4784550a922",
+                    "_entityId": "c0a00d2a-a7b5-488f-a748-d8edb888ea25",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272528",
+                    "title": "Germany vs Israel - Match 9 - 8/17/2026",
+                    "slug": "match-272528",
+                    "neutralSlug": "match-272528",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272528",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272528",
+                        "teamA": "Germany",
+                        "teamB": "Israel",
+                        "teamAid": "1822",
+                        "teamBid": "1803",
+                        "teamAshort": "GER",
+                        "teamBshort": "ISR",
+                        "stage": "Group",
+                        "matchDateLocal": "8/17/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 9",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "germany-vs-israel",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "60472ba4-b8dc-4c97-8746-229bb6c90238",
+                "description": "Watch the match highlights as Germany beat Israel by 9 wickets in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/231171289-GermanyvsIsrael-MatchHighllight.mp4",
+                "untrimmedDuration": "PT4M59S",
+                "videoDuration": "PT4M59S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Daniel Beswick",
+            "lastUpdatedDate": "2026-08-17T23:13:20.967Z",
+            "contentDate": "2026-08-17T11:33:46.653Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "60472ba4-b8dc-4c97-8746-229bb6c90238-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/a4b2p3om152egrak4odc",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/a4b2p3om152egrak4odc",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "60472ba4-b8dc-4c97-8746-229bb6c90238-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/60472ba4-b8dc-4c97-8746-229bb6c90238-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "6d492e33-c154-4426-974a-9499d65c9d42",
+            "_entityId": "c69b3f7c-7113-4a06-a52f-139be70a44c1",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/germany-v-portugal-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "germany-v-portugal-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Germany v Portugal | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "a2fcf93a-90be-4050-b3ea-6bb8b101f9f6",
+                    "_entityId": "ebfbb5b3-d350-4b0a-a201-a2a421de5215",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272526",
+                    "title": "Germany vs Portugal - Match 7 - 8/15/2026",
+                    "slug": "match-272526",
+                    "neutralSlug": "match-272526",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272526",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272526",
+                        "teamA": "Germany",
+                        "teamB": "Portugal",
+                        "teamAid": "1822",
+                        "teamBid": "1765",
+                        "teamAshort": "GER",
+                        "teamBshort": "POR",
+                        "stage": "Group",
+                        "matchDateLocal": "8/15/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 7",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "germany-vs-portugal",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "6203ede9-0e21-4c1d-9fb0-e91ca1b3e4d2",
+                "description": "Watch the match highlights as Portugal beat Germany by 4 wickets in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/254523248-GermanyvsPortugal-MatchHighlights.mp4",
+                "untrimmedDuration": "PT5M30S",
+                "videoDuration": "PT5M30S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T11:32:31.569Z",
+            "contentDate": "2026-08-17T11:32:31.569Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "6203ede9-0e21-4c1d-9fb0-e91ca1b3e4d2-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/bouikijhfl7iucszshut",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/bouikijhfl7iucszshut",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "6203ede9-0e21-4c1d-9fb0-e91ca1b3e4d2-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/6203ede9-0e21-4c1d-9fb0-e91ca1b3e4d2-thumbnail"
+            },
+            "entityCode": "video"
+        },
+        {
+            "type": "customentity",
+            "_translationId": "3bd62343-e9f0-461a-b777-3335bdffae26",
+            "_entityId": "38f1a375-fc0b-432d-84a6-7cbbc3a41115",
+            "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/isle-of-man-v-spain-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "slug": "isle-of-man-v-spain-match-highlights-icc-men-s-t20-wc-europe-sub-regional-qualifier-c-2026",
+            "title": "Isle of Man v Spain | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026",
+            "tags": [
+                {
+                    "_translationId": "b47aaaf6-68a0-4456-bba5-ed9fc59efec6",
+                    "_entityId": "fdd019ae-998f-4d12-9514-3aeea80b4e37",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15696",
+                    "title": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                    "slug": "tournament-15696",
+                    "neutralSlug": "tournament-15696",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "tournament-15696",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "tournamentId": "15696",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "tournament"
+                    },
+                    "fields": {}
+                },
+                {
+                    "_translationId": "ee5f6593-9b7e-48dc-9cb0-e991d0c155c7",
+                    "_entityId": "705ae509-03a7-4649-85ef-1599d2b46255",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/app-stream",
+                    "title": "App Stream",
+                    "slug": "app-stream",
+                    "neutralSlug": "app-stream",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "aae426db-e35f-439c-ac72-f9b2b3198d04",
+                    "_entityId": "3f0f3fb3-c1fd-4114-a694-5008ebdbc8b9",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/highlighted-videos",
+                    "title": "Highlighted Videos",
+                    "slug": "highlighted-videos",
+                    "neutralSlug": "highlighted-videos",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "223c2c7f-4373-4a1e-89d7-cca16a80abe7",
+                    "_entityId": "cb98f266-60a7-49ef-aae0-1d9612004e0d",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-highlights",
+                    "title": "Match Highlights",
+                    "slug": "match-highlights",
+                    "neutralSlug": "match-highlights",
+                    "externalSourceReference": {},
+                    "fields": {}
+                },
+                {
+                    "_translationId": "41f80a75-a4f7-4a9f-966e-8fca22ce8f01",
+                    "_entityId": "6206e970-7a79-4ae5-9c9c-5aa8f2c70079",
+                    "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-272525",
+                    "title": "Isle of Man vs Spain - Match 6 - 8/15/2026",
+                    "slug": "match-272525",
+                    "neutralSlug": "match-272525",
+                    "externalSourceName": "cricket",
+                    "externalSourceReference": {
+                        "SourceId": "match-272525",
+                        "SourceName": "cricket"
+                    },
+                    "extraData": {
+                        "matchId": "272525",
+                        "teamA": "Isle of Man",
+                        "teamB": "Spain",
+                        "teamAid": "1805",
+                        "teamBid": "1739",
+                        "teamAshort": "IOM",
+                        "teamBshort": "ESP",
+                        "stage": "Group",
+                        "matchDateLocal": "8/15/2026",
+                        "matchType": "T20",
+                        "matchNumber": "Match 6",
+                        "seriesId": "15696",
+                        "seriesName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesShortName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "seriesType": "Tournament",
+                        "tourId": "12649",
+                        "tourName": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C, 2026",
+                        "competitionType": "T20 International - m",
+                        "competitionTypeId": "3",
+                        "seoName": "isle-of-man-vs-spain",
+                        "championshipId": "",
+                        "championshipName": "",
+                        "externalTagType": "match"
+                    },
+                    "fields": {}
+                }
+            ],
+            "fields": {
+                "videoId": "ebef5561-730e-4552-ace2-f5dfd74e1672",
+                "description": "Watch the match highlights as Spain beat Isle of Man by 7 wickets in the ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026.",
+                "workflow": "VOD",
+                "videoStatus": "OnDemand",
+                "v_has_data": false,
+                "offer": "Free",
+                "type": "Short-Form Content",
+                "mezzanineUrl": "https://media.icc-cricket.com/video/238330705-IsleofManvsSpain-MatchHighlights.mp4",
+                "untrimmedDuration": "PT5M12S",
+                "videoDuration": "PT5M12S"
+            },
+            "createdBy": "Faisal Agha",
+            "lastUpdatedBy": "Faisal Agha",
+            "lastUpdatedDate": "2026-08-17T11:32:27.969Z",
+            "contentDate": "2026-08-17T11:32:27.969Z",
+            "featured": 0,
+            "thumbnail": {
+                "title": "ebef5561-730e-4552-ace2-f5dfd74e1672-thumbnail",
+                "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/yzuaxwpgxusl4cnabg8m",
+                "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/yzuaxwpgxusl4cnabg8m",
+                "format": "png",
+                "overriddenFormats": {},
+                "slug": "ebef5561-730e-4552-ace2-f5dfd74e1672-thumbnail",
+                "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/ebef5561-730e-4552-ace2-f5dfd74e1672-thumbnail"
+            },
+            "entityCode": "video"
+        }
+    ]
+}
