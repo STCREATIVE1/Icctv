@@ -21,10 +21,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Step 1 - Run Scraper Script
-        run: python icc_all_matches_scraper.py
-
-      - name: Step 2 - Convert JSON to M3U
+      - name: Step 1 - Convert JSON to M3U
         run: python json_to_m3u.py
 
       - name: Commit and Push Updated Files
