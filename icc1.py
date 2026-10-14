@@ -1,52 +1,59 @@
 import json
-import time
-from datetime import datetime
 import requests
+from datetime import datetime
 
-HEADERS = {
+EMAIL = "Desiminecraftfacts@gmail.com"
+PASSWORD = "KnEmnBX4PS4A-uP"
+
+BASE_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "Referer": "https://www.icc-cricket.com/",
     "Origin": "https://www.icc-cricket.com",
     "Accept": "application/json, text/plain, */*"
 }
 
-def get_icc_videos():
-    # Primary API endpoint for live videos and events
-    endpoints = [
-        "https://dapi.icc-cricket.com/v2/content/en-gb/videos?page=0&pageSize=50",
-        "https://dapi.icc-cricket.com/v2/content/en-gb/events?page=0&pageSize=50"
-    ]
-    
-    all_content = []
-    for url in endpoints:
-        try:
-            res = requests.get(url, headers=HEADERS, timeout=15)
-            if res.status_code == 200:
-                data = res.json()
-                items = data.get("content", []) or data.get("items", [])
-                if isinstance(items, list):
-                    all_content.extend(items)
-        except Exception as e:
-            print(f"Error fetching {url}: {e}")
-            
-    # Deduplicate by _entityId or slug
-    seen_ids = set()
-    unique_items = []
-    for item in all_content:
-        ent_id = item.get("_entityId") or item.get("slug")
-        if ent_id and ent_id not in seen_ids:
-            seen_ids.add(ent_id)
-            unique_items.append(item)
-            
-    return unique_items
+session = requests.Session()
+session.headers.update(BASE_HEADERS)
+
+def login():
+    # ICC / Deltatre identity login endpoint
+    login_url = "https://identity.icc-cricket.com/api/v1/auth/login"
+    payload = {
+        "email": EMAIL,
+        "password": PASSWORD
+    }
+    try:
+        res = session.post(login_url, json=payload, timeout=15)
+        if res.status_code == 200:
+            token = res.json().get("access_token") or res.json().get("token")
+            if token:
+                session.headers.update({"Authorization": f"Bearer {token}"})
+                print("Login successful, token updated.")
+                return token
+        print(f"Login failed: HTTP {res.status_code}")
+    except Exception as e:
+        print(f"Login request error: {e}")
+    return None
+
+def get_live_events():
+    url = "https://dapi.icc-cricket.com/v2/content/en-gb/videos?page=0&pageSize=30"
+    try:
+        res = session.get(url, timeout=15)
+        if res.status_code == 200:
+            data = res.json()
+            return data.get("content", []) or data.get("items", [])
+    except Exception as e:
+        print(f"Error fetching matches: {e}")
+    return []
 
 def resolve_playback(video_id):
+    # Diva / Akamai live stream endpoint structure
     return {
         "Status_code": 302,
         "create_date": datetime.now().strftime("%A, %B %d, %Y, %I:%M:%S %p"),
         "expire_date": "",
         "headers": [
-            f"User-Agent: {HEADERS['User-Agent']}",
+            f"User-Agent: {BASE_HEADERS['User-Agent']}",
             "Referer: https://www.icc-cricket.com/",
             "Origin: https://www.icc-cricket.com"
         ],
@@ -68,18 +75,19 @@ def resolve_playback(video_id):
         }
     }
 
-def build_icc_json():
-    raw_videos = get_icc_videos()
+def main():
+    login()
+    raw_content = get_live_events()
+
     live_items = []
     upcoming_items = []
 
-    for item in raw_videos:
+    for item in raw_content:
         fields = item.get("fields", {})
         status = str(fields.get("videoStatus", "")).strip().lower()
         workflow = str(fields.get("workflow", "")).strip().lower()
         vid_id = fields.get("videoId")
 
-        # Live condition: videoStatus == live or workflow == live
         if status == "live" or workflow == "live":
             item["playback"] = resolve_playback(vid_id)
             live_items.append(item)
@@ -115,9 +123,9 @@ def build_icc_json():
 
     with open("icc.json", "w", encoding="utf-8") as f:
         json.dump(final_payload, f, indent=2, ensure_ascii=False)
-    
+
     print(f"Updated icc.json: {len(live_items)} Live, {len(upcoming_items)} Upcoming")
 
 if __name__ == "__main__":
-    build_icc_json()
+    main()
     
