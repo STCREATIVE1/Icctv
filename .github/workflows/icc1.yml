@@ -28,7 +28,7 @@ jobs:
 
       - name: Run Icc1.py Script
         run: |
-          python Icc1.py
+          python icc1.py
 
       - name: Commit and Push Changes
         run: |
