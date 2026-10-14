@@ -1,0 +1,26 @@
+{
+  "Author": "DOCTOR STRANGE",
+  "Telegram": "https://t.me/jitendraunatti_github",
+  "name": "ICC Live Matches API",
+  "last_updated": "08:15:05 AM 14-10-2026",
+  "total_matches": 0,
+  "live_matches": 0,
+  "upcoming_matches": 0,
+  "message": {
+    "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
+  },
+  "app_settings": {
+    "PROXY": "ON",
+    "REALTIME_CLEARKEY": true,
+    "MULTI_CDN": "OFF",
+    "Debugging": "ON",
+    "SUB_TYPE": "FREEMIUM",
+    "RECIVER": "OFF",
+    "REALTIME": "OFF",
+    "REPLACEMENT": "OFF",
+    "ALL_IN_ONE": "ON",
+    "SERVER_STATUS": "NORMAL"
+  },
+  "live": [],
+  "upcoming": []
+}
