@@ -2,14 +2,13 @@ from datetime import datetime, timedelta
 import json
 import requests
 
-# Sportz.io schedule API URL
 from_date = datetime.now().strftime("%Y%m%d")
 to_date = (datetime.now() + timedelta(days=7)).strftime("%Y%m%d")
 
 api_url = (
     "https://assets-icc.sportz.io/cricket/v1/schedule?"
     "client_id=tPZJbRgIub3Vua93%2FDWtyQ%3D%3D&feed_format=json&lang=en&"
-    "is_deleted=false&pagination=true&page_number=1&page_size=20&"
+    "is_deleted=false&pagination=true&page_number=1&page_size=50&"
     f"from_date={from_date}&to_date={to_date}&"
     "is_upcoming=true&is_live=true&is_recent=false"
 )
@@ -25,7 +24,7 @@ headers = {
 
 
 def generate_icc_json():
-  print("Fetching data...")
+  print("Fetching schedule from ICC API...")
   try:
     res = requests.get(api_url, headers=headers, timeout=15)
     if res.status_code != 200:
@@ -41,45 +40,79 @@ def generate_icc_json():
     for match in matches:
       is_live = match.get("live", False)
       is_upcoming = match.get("upcoming", False)
+      live_coverage = match.get("live_coverage", False)
+
+      # Sirf wahi match lenge jinka ICC-TV par live coverage ya streaming available ho
+      if not live_coverage and not is_live:
+        continue
 
       match_id = str(match.get("match_id", ""))
       team_a = match.get("teama", "Team A")
       team_b = match.get("teamb", "Team B")
-      match_date = match.get("match_date_local", "2026-10-16")
+      series_name = match.get("series_name", "ICC Tournament")
+      series_id = str(match.get("series_id", ""))
 
-      # Tumhare format ke mutabiq customentity structure banana
+      slug = f"{team_a.lower()}-v-{team_b.lower()}-1st-innings".replace(
+          " ", "-"
+      )
+      self_url = f"https://dapi.icc-cricket.com/v2/content/en-gb/videos/{slug}"
+
       item_structure = {
           "type": "customentity",
           "_translationId": f"trans-{match_id}",
           "_entityId": f"entity-{match_id}",
-          "selfUrl": (
-              f"https://dapi.icc-cricket.com/v2/content/en-gb/videos/{match.get('match_file', '')}"
-          ),
-          "slug": match.get("match_file", ""),
-          "title": f"{team_a} v {team_b} ({match.get('match_type', 'T20')})",
-          "tags": [{
-              "title": match.get("series_name", "ICC Tournament"),
-              "slug": match.get("series_id", ""),
-              "extraData": {
-                  "matchId": match_id,
-                  "teamA": team_a,
-                  "teamB": team_b,
-                  "matchDateLocal": match_date,
+          "selfUrl": self_url,
+          "slug": slug,
+          "title": f"{team_a} v {team_b} (1st Innings)",
+          "tags": [
+              {
+                  "selfUrl": f"https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-{series_id}",
+                  "title": series_name,
+                  "slug": f"tournament-{series_id}",
+                  "extraData": {
+                      "tournamentId": series_id,
+                      "competitionType": match.get("comp_type", "ODI"),
+                      "competitionTypeId": match.get("comp_type_id", "2"),
+                  },
               },
-          }],
+              {
+                  "selfUrl": f"https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-{match_id}",
+                  "title": (
+                      f"{team_a} vs {team_b} - {match.get('match_number', '')} -"
+                      f" {match.get('match_date_local', '')}"
+                  ),
+                  "slug": f"match-{match_id}",
+                  "extraData": {
+                      "matchId": match_id,
+                      "teamA": team_a,
+                      "teamB": team_b,
+                      "matchDateLocal": match.get("match_date_local", ""),
+                      "matchType": match.get("match_type", ""),
+                      "seriesName": series_name,
+                  },
+              },
+          ],
           "fields": {
               "videoId": f"vid-{match_id}",
               "workflow": "LIVE",
-              "videoStatus": (
-                  "Live" if is_live else ("Scheduled" if is_upcoming else "VOD")
-              ),
+              "videoStatus": "Live" if is_live else "Scheduled",
+              "v_has_data": True,
               "scheduledStartTime": match.get("start_date", ""),
               "offer": "Registered",
               "type": "Event",
+              "countryRestrictions": {
+                  "listType": "blacklist",
+                  "countries": ["IN"],
+              },
           },
           "thumbnail": {
               "title": f"{team_a} vs {team_b}",
-              "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
+              "templateUrl": (
+                  "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default"
+              ),
+              "thumbnailUrl": (
+                  "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
+              ),
           },
       }
 
@@ -88,7 +121,6 @@ def generate_icc_json():
       elif is_upcoming:
         upcoming_items.append(item_structure)
 
-    # Exact requested JSON Structure
     final_payload = {
         "Author": "DOCTOR STRANGE",
         "Telegram": "https://t.me/jitendraunatti_github",
@@ -124,7 +156,7 @@ def generate_icc_json():
 
     print(
         f"Successfully generated icc.json with {len(live_items)} Live and"
-        f" {len(upcoming_items)} Upcoming matches!"
+        f" {len(upcoming_items)} Streaming-supported Upcoming matches!"
     )
 
   except Exception as e:
@@ -133,4 +165,4 @@ def generate_icc_json():
 
 if __name__ == "__main__":
   generate_icc_json()
-  
+    
