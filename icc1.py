@@ -44,7 +44,7 @@ def login():
 
 
 def get_live_events():
-  url = "https://dapi.icc-cricket.com/v2/content/en-gb/videos?page=0&pageSize=30"
+  url = "https://dapi.icc-cricket.com/v2/content/en-gb/videos"
   try:
     res = session.get(url, timeout=15)
     if res.status_code == 200:
