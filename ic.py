@@ -10,7 +10,7 @@ def filter_icc_tv_global_events(input_filename, output_filename):
             series_name = extra_data.get('seriesName', '')
             tour_name = extra_data.get('tourName', '')
             
-            # Keywords jo exclude karne hain (Tri-Series ya Bilateral tours)
+            # Keywords jo bilkul nahi chahiye (Tri-Series aur Bilateral/Tours)
             exclude_keywords = ['Tri-Series', 'tour of', 'in India', 'in Pakistan', 'in UAE']
             if any(keyword in series_name or keyword in tour_name for keyword in exclude_keywords):
                 return False
@@ -20,9 +20,11 @@ def filter_icc_tv_global_events(input_filename, output_filename):
                 return True
         return False
 
+    # Filter live and upcoming lists
     filtered_live = [item for item in data.get('live', []) if is_true_icc_tournament(item)]
     filtered_upcoming = [item for item in data.get('upcoming', []) if is_true_icc_tournament(item)]
 
+    # Update metadata
     data['live'] = filtered_live
     data['upcoming'] = filtered_upcoming
     data['live_matches'] = len(filtered_live)
@@ -30,6 +32,7 @@ def filter_icc_tv_global_events(input_filename, output_filename):
     data['total_matches'] = data['live_matches'] + data['upcoming_matches']
     data['name'] = "ICC TV Global Stream Filtered API"
 
+    # Save to file
     with open(output_filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     
