@@ -2,10 +2,10 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "ICC Live Matches API",
-  "last_updated": "16-10-2026 10:31",
-  "total_matches": 33,
+  "last_updated": "16-10-2026 10:37",
+  "total_matches": 12,
   "live_matches": 1,
-  "upcoming_matches": 32,
+  "upcoming_matches": 11,
   "message": {
     "notice": "Headers are dynamic per stream. Please check the 'playback' field for specific 'licence' and 'headers'."
   },
@@ -31,33 +31,72 @@
       "title": "Romania v Bulgaria (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15843",
+          "_entityId": "entity-tour-15843",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15843",
           "title": "ECA Women's European Cup, 2026",
           "slug": "tournament-15843",
+          "neutralSlug": "tournament-15843",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15843",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15843",
             "competitionType": "T20 International - w",
-            "competitionTypeId": "13"
-          }
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-275616",
+          "_entityId": "entity-match-275616",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275616",
           "title": "Romania vs Bulgaria - Match 3 - 10/16/2026",
           "slug": "match-275616",
+          "neutralSlug": "match-275616",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-275616",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "275616",
             "teamA": "Romania",
             "teamB": "Bulgaria",
+            "teamAid": "1762",
+            "teamBid": "1860",
+            "teamAshort": "ROM",
+            "teamBshort": "BUL",
+            "stage": "League",
             "matchDateLocal": "10/16/2026",
             "matchType": "T20",
-            "seriesName": "ECA Women's European Cup, 2026"
-          }
+            "matchNumber": "Match 3",
+            "seriesId": "15843",
+            "seriesName": "ECA Women's European Cup, 2026",
+            "seriesShortName": "ECA Women's European Cup, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12785",
+            "tourName": "ECA Women's European Cup, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "romania-vs-bulgaria",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-275616",
         "workflow": "LIVE",
         "videoStatus": "Live",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/16/2026T07:00:00+00:00",
         "offer": "Registered",
@@ -69,11 +108,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Romania vs Bulgaria",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "romania-v-bulgaria-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/romania-v-bulgaria-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     }
   ],
   "upcoming": [
@@ -86,33 +136,72 @@
       "title": "India v Zimbabwe (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15563",
+          "_entityId": "entity-tour-15563",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15563",
           "title": "Zimbabwe Women in India, 3 T20I Series, 2026",
           "slug": "tournament-15563",
+          "neutralSlug": "tournament-15563",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15563",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15563",
             "competitionType": "T20 International - w",
-            "competitionTypeId": "13"
-          }
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-270969",
+          "_entityId": "entity-match-270969",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270969",
           "title": "India vs Zimbabwe - 1st T20I - 10/16/2026",
           "slug": "match-270969",
+          "neutralSlug": "match-270969",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270969",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "270969",
             "teamA": "India",
             "teamB": "Zimbabwe",
+            "teamAid": "1126",
+            "teamBid": "1485",
+            "teamAshort": "IND",
+            "teamBshort": "ZIM",
+            "stage": "Series",
             "matchDateLocal": "10/16/2026",
             "matchType": "T20",
-            "seriesName": "Zimbabwe Women in India, 3 T20I Series, 2026"
-          }
+            "matchNumber": "1st T20I",
+            "seriesId": "15563",
+            "seriesName": "Zimbabwe Women in India, 3 T20I Series, 2026",
+            "seriesShortName": "Zimbabwe Women in India, 3 T20I Series, 2026",
+            "seriesType": "Series",
+            "tourId": "12537",
+            "tourName": "Zimbabwe Women tour of India, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "india-vs-zimbabwe",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-270969",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/16/2026T13:30:00+00:00",
         "offer": "Registered",
@@ -124,11 +213,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "India vs Zimbabwe",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "india-v-zimbabwe-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/india-v-zimbabwe-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -139,33 +239,72 @@
       "title": "Canada v Nepal (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-6156",
+          "_entityId": "entity-tour-6156",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
           "title": "ICC CWC League 2, 2023-27",
           "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "6156",
             "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-273764",
+          "_entityId": "entity-match-273764",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273764",
           "title": "Canada vs Nepal - Match 138 - 10/17/2026",
           "slug": "match-273764",
+          "neutralSlug": "match-273764",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273764",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "273764",
             "teamA": "Canada",
             "teamB": "Nepal",
+            "teamAid": "12",
+            "teamBid": "637",
+            "teamAshort": "CAN",
+            "teamBshort": "NEP",
+            "stage": "League",
             "matchDateLocal": "10/17/2026",
             "matchType": "ODI",
-            "seriesName": "ICC CWC League 2, 2023-27"
-          }
+            "matchNumber": "Match 138",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "canada-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-273764",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/17/2026T05:30:00+00:00",
         "offer": "Registered",
@@ -177,11 +316,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Canada vs Nepal",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "canada-v-nepal-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/canada-v-nepal-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -192,33 +342,72 @@
       "title": "Bangladesh v Zimbabwe (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15793",
+          "_entityId": "entity-tour-15793",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15793",
           "title": "ODI Tri-Series in United Arab Emirates, 2026",
           "slug": "tournament-15793",
+          "neutralSlug": "tournament-15793",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15793",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15793",
             "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-274656",
+          "_entityId": "entity-match-274656",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274656",
           "title": "Bangladesh vs Zimbabwe - Match 1 - 10/17/2026",
           "slug": "match-274656",
+          "neutralSlug": "match-274656",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274656",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "274656",
             "teamA": "Bangladesh",
             "teamB": "Zimbabwe",
+            "teamAid": "2",
+            "teamBid": "10",
+            "teamAshort": "BAN",
+            "teamBshort": "ZIM",
+            "stage": "Series",
             "matchDateLocal": "10/17/2026",
             "matchType": "ODI",
-            "seriesName": "ODI Tri-Series in United Arab Emirates, 2026"
-          }
+            "matchNumber": "Match 1",
+            "seriesId": "15793",
+            "seriesName": "ODI Tri-Series in United Arab Emirates, 2026",
+            "seriesShortName": "ODI Tri-Series in United Arab Emirates, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12738",
+            "tourName": "Afghanistan, Zimbabwe and Bangladesh tour of UAE, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "bangladesh-vs-zimbabwe",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-274656",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/17/2026T12:00:00+00:00",
         "offer": "Registered",
@@ -230,11 +419,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Bangladesh vs Zimbabwe",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "bangladesh-v-zimbabwe-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/bangladesh-v-zimbabwe-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -245,33 +445,72 @@
       "title": "India v West Indies (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15498",
+          "_entityId": "entity-tour-15498",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15498",
           "title": "West Indies in India, 5 T20I Series, 2026",
           "slug": "tournament-15498",
+          "neutralSlug": "tournament-15498",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15498",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15498",
             "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
+            "competitionTypeId": "3",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-270278",
+          "_entityId": "entity-match-270278",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270278",
           "title": "India vs West Indies - 5th T20I - 10/17/2026",
           "slug": "match-270278",
+          "neutralSlug": "match-270278",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270278",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "270278",
             "teamA": "India",
             "teamB": "West Indies",
+            "teamAid": "4",
+            "teamBid": "9",
+            "teamAshort": "IND",
+            "teamBshort": "WI",
+            "stage": "Series",
             "matchDateLocal": "10/17/2026",
             "matchType": "T20",
-            "seriesName": "West Indies in India, 5 T20I Series, 2026"
-          }
+            "matchNumber": "5th T20I",
+            "seriesId": "15498",
+            "seriesName": "West Indies in India, 5 T20I Series, 2026",
+            "seriesShortName": "West Indies in India, 5 T20I Series, 2026",
+            "seriesType": "Series",
+            "tourId": "12481",
+            "tourName": "West Indies tour of India, 2026",
+            "competitionType": "T20 International - m",
+            "competitionTypeId": "3",
+            "seoName": "india-vs-west-indies",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-270278",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/17/2026T13:30:00+00:00",
         "offer": "Registered",
@@ -283,11 +522,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "India vs West Indies",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "india-v-west-indies-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/india-v-west-indies-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -298,33 +548,72 @@
       "title": "Pakistan v Sri Lanka (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15763",
+          "_entityId": "entity-tour-15763",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15763",
           "title": "ODI Tri-Series in Pakistan, 2026",
           "slug": "tournament-15763",
+          "neutralSlug": "tournament-15763",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15763",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15763",
             "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-274142",
+          "_entityId": "entity-match-274142",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274142",
           "title": "Pakistan vs Sri Lanka - Match 1 - 10/18/2026",
           "slug": "match-274142",
+          "neutralSlug": "match-274142",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274142",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "274142",
             "teamA": "Pakistan",
             "teamB": "Sri Lanka",
+            "teamAid": "6",
+            "teamBid": "8",
+            "teamAshort": "PAK",
+            "teamBshort": "SL",
+            "stage": "Series",
             "matchDateLocal": "10/18/2026",
             "matchType": "ODI",
-            "seriesName": "ODI Tri-Series in Pakistan, 2026"
-          }
+            "matchNumber": "Match 1",
+            "seriesId": "15763",
+            "seriesName": "ODI Tri-Series in Pakistan, 2026",
+            "seriesShortName": "ODI Tri-Series in Pakistan, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12709",
+            "tourName": "England and Sri Lanka tour of Pakistan, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "pakistan-vs-sri-lanka",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-274142",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/18/2026T08:00:00+00:00",
         "offer": "Registered",
@@ -336,11 +625,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Pakistan vs Sri Lanka",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "pakistan-v-sri-lanka-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/pakistan-v-sri-lanka-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -351,33 +651,72 @@
       "title": "South Africa v Australia (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15432",
+          "_entityId": "entity-tour-15432",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15432",
           "title": "Australia in South Africa, 3 Test Series, 2026",
           "slug": "tournament-15432",
+          "neutralSlug": "tournament-15432",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15432",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15432",
             "competitionType": "Test International - m",
-            "competitionTypeId": "1"
-          }
+            "competitionTypeId": "1",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-269791",
+          "_entityId": "entity-match-269791",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-269791",
           "title": "South Africa vs Australia - 2nd Test - 10/18/2026",
           "slug": "match-269791",
+          "neutralSlug": "match-269791",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-269791",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "269791",
             "teamA": "South Africa",
             "teamB": "Australia",
+            "teamAid": "7",
+            "teamBid": "1",
+            "teamAshort": "SA",
+            "teamBshort": "AUS",
+            "stage": "Series",
             "matchDateLocal": "10/18/2026",
             "matchType": "Test",
-            "seriesName": "Australia in South Africa, 3 Test Series, 2026"
-          }
+            "matchNumber": "2nd Test",
+            "seriesId": "15432",
+            "seriesName": "Australia in South Africa, 3 Test Series, 2026",
+            "seriesShortName": "Australia in South Africa, 3 Test Series, 2026",
+            "seriesType": "Series",
+            "tourId": "12432",
+            "tourName": "Australia tour of South Africa, 2026",
+            "competitionType": "Test International - m",
+            "competitionTypeId": "1",
+            "seoName": "south-africa-vs-australia",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-269791",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/18/2026T08:00:00+00:00",
         "offer": "Registered",
@@ -389,11 +728,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "South Africa vs Australia",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "south-africa-v-australia-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/south-africa-v-australia-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -404,33 +754,72 @@
       "title": "Australia v New Zealand (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15487",
+          "_entityId": "entity-tour-15487",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15487",
           "title": "New Zealand Women in Australia, 3 T20I Series, 2026",
           "slug": "tournament-15487",
+          "neutralSlug": "tournament-15487",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15487",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15487",
             "competitionType": "T20 International - w",
-            "competitionTypeId": "13"
-          }
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-270227",
+          "_entityId": "entity-match-270227",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270227",
           "title": "Australia vs New Zealand - 1st T20I - 10/18/2026",
           "slug": "match-270227",
+          "neutralSlug": "match-270227",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270227",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "270227",
             "teamA": "Australia",
             "teamB": "New Zealand",
+            "teamAid": "1119",
+            "teamBid": "1129",
+            "teamAshort": "AUS",
+            "teamBshort": "NZ",
+            "stage": "Series",
             "matchDateLocal": "10/18/2026",
             "matchType": "T20",
-            "seriesName": "New Zealand Women in Australia, 3 T20I Series, 2026"
-          }
+            "matchNumber": "1st T20I",
+            "seriesId": "15487",
+            "seriesName": "New Zealand Women in Australia, 3 T20I Series, 2026",
+            "seriesShortName": "New Zealand Women in Australia, 3 T20I Series, 2026",
+            "seriesType": "Series",
+            "tourId": "12607",
+            "tourName": "New Zealand Women tour of Australia, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "australia-vs-new-zealand",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-270227",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/18/2026T08:15:00+00:00",
         "offer": "Registered",
@@ -442,11 +831,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Australia vs New Zealand",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "australia-v-new-zealand-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/australia-v-new-zealand-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -457,33 +857,72 @@
       "title": "India v Zimbabwe (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15563",
+          "_entityId": "entity-tour-15563",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15563",
           "title": "Zimbabwe Women in India, 3 T20I Series, 2026",
           "slug": "tournament-15563",
+          "neutralSlug": "tournament-15563",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15563",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15563",
             "competitionType": "T20 International - w",
-            "competitionTypeId": "13"
-          }
+            "competitionTypeId": "13",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-270970",
+          "_entityId": "entity-match-270970",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270970",
           "title": "India vs Zimbabwe - 2nd T20I - 10/18/2026",
           "slug": "match-270970",
+          "neutralSlug": "match-270970",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-270970",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "270970",
             "teamA": "India",
             "teamB": "Zimbabwe",
+            "teamAid": "1126",
+            "teamBid": "1485",
+            "teamAshort": "IND",
+            "teamBshort": "ZIM",
+            "stage": "Series",
             "matchDateLocal": "10/18/2026",
             "matchType": "T20",
-            "seriesName": "Zimbabwe Women in India, 3 T20I Series, 2026"
-          }
+            "matchNumber": "2nd T20I",
+            "seriesId": "15563",
+            "seriesName": "Zimbabwe Women in India, 3 T20I Series, 2026",
+            "seriesShortName": "Zimbabwe Women in India, 3 T20I Series, 2026",
+            "seriesType": "Series",
+            "tourId": "12537",
+            "tourName": "Zimbabwe Women tour of India, 2026",
+            "competitionType": "T20 International - w",
+            "competitionTypeId": "13",
+            "seoName": "india-vs-zimbabwe",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-270970",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/18/2026T13:30:00+00:00",
         "offer": "Registered",
@@ -495,11 +934,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "India vs Zimbabwe",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "india-v-zimbabwe-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/india-v-zimbabwe-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -510,33 +960,72 @@
       "title": "Oman v Nepal (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-6156",
+          "_entityId": "entity-tour-6156",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-6156",
           "title": "ICC CWC League 2, 2023-27",
           "slug": "tournament-6156",
+          "neutralSlug": "tournament-6156",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-6156",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "6156",
             "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-273765",
+          "_entityId": "entity-match-273765",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-273765",
           "title": "Oman vs Nepal - Match 139 - 10/19/2026",
           "slug": "match-273765",
+          "neutralSlug": "match-273765",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-273765",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "273765",
             "teamA": "Oman",
             "teamB": "Nepal",
+            "teamAid": "28",
+            "teamBid": "637",
+            "teamAshort": "OMA",
+            "teamBshort": "NEP",
+            "stage": "League",
             "matchDateLocal": "10/19/2026",
             "matchType": "ODI",
-            "seriesName": "ICC CWC League 2, 2023-27"
-          }
+            "matchNumber": "Match 139",
+            "seriesId": "6156",
+            "seriesName": "ICC CWC League 2, 2023-27",
+            "seriesShortName": "ICC CWC League 2, 2023-27",
+            "seriesType": "Tournament",
+            "tourId": "4689",
+            "tourName": "ICC CWC League 2, 2023-27",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "oman-vs-nepal",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-273765",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/19/2026T05:30:00+00:00",
         "offer": "Registered",
@@ -548,11 +1037,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Oman vs Nepal",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "oman-v-nepal-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/oman-v-nepal-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -563,33 +1063,72 @@
       "title": "Afghanistan v Zimbabwe (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15793",
+          "_entityId": "entity-tour-15793",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15793",
           "title": "ODI Tri-Series in United Arab Emirates, 2026",
           "slug": "tournament-15793",
+          "neutralSlug": "tournament-15793",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15793",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15793",
             "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-274657",
+          "_entityId": "entity-match-274657",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274657",
           "title": "Afghanistan vs Zimbabwe - Match 2 - 10/19/2026",
           "slug": "match-274657",
+          "neutralSlug": "match-274657",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274657",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "274657",
             "teamA": "Afghanistan",
             "teamB": "Zimbabwe",
+            "teamAid": "1188",
+            "teamBid": "10",
+            "teamAshort": "AFG",
+            "teamBshort": "ZIM",
+            "stage": "Series",
             "matchDateLocal": "10/19/2026",
             "matchType": "ODI",
-            "seriesName": "ODI Tri-Series in United Arab Emirates, 2026"
-          }
+            "matchNumber": "Match 2",
+            "seriesId": "15793",
+            "seriesName": "ODI Tri-Series in United Arab Emirates, 2026",
+            "seriesShortName": "ODI Tri-Series in United Arab Emirates, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12738",
+            "tourName": "Afghanistan, Zimbabwe and Bangladesh tour of UAE, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "afghanistan-vs-zimbabwe",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-274657",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/19/2026T12:00:00+00:00",
         "offer": "Registered",
@@ -601,11 +1140,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Afghanistan vs Zimbabwe",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "afghanistan-v-zimbabwe-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/afghanistan-v-zimbabwe-1st-innings-thumb"
+      },
+      "entityCode": "video",
+      "_listAvailability": 0
     },
     {
       "type": "customentity",
@@ -616,33 +1166,72 @@
       "title": "Pakistan v England (1st Innings)",
       "tags": [
         {
+          "_translationId": "trans-tour-15763",
+          "_entityId": "entity-tour-15763",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15763",
           "title": "ODI Tri-Series in Pakistan, 2026",
           "slug": "tournament-15763",
+          "neutralSlug": "tournament-15763",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "tournament-15763",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "tournamentId": "15763",
             "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
+            "competitionTypeId": "2",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "tournament"
+          },
+          "fields": []
         },
         {
+          "_translationId": "trans-match-274143",
+          "_entityId": "entity-match-274143",
           "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274143",
           "title": "Pakistan vs England - Match 2 - 10/20/2026",
           "slug": "match-274143",
+          "neutralSlug": "match-274143",
+          "externalSourceName": "cricket",
+          "externalSourceReference": {
+            "SourceId": "match-274143",
+            "SourceName": "cricket"
+          },
           "extraData": {
             "matchId": "274143",
             "teamA": "Pakistan",
             "teamB": "England",
+            "teamAid": "6",
+            "teamBid": "3",
+            "teamAshort": "PAK",
+            "teamBshort": "ENG",
+            "stage": "Series",
             "matchDateLocal": "10/20/2026",
             "matchType": "ODI",
-            "seriesName": "ODI Tri-Series in Pakistan, 2026"
-          }
+            "matchNumber": "Match 2",
+            "seriesId": "15763",
+            "seriesName": "ODI Tri-Series in Pakistan, 2026",
+            "seriesShortName": "ODI Tri-Series in Pakistan, 2026",
+            "seriesType": "Tournament",
+            "tourId": "12709",
+            "tourName": "England and Sri Lanka tour of Pakistan, 2026",
+            "competitionType": "ODI International - m",
+            "competitionTypeId": "2",
+            "seoName": "pakistan-vs-england",
+            "championshipId": "",
+            "championshipName": "",
+            "externalTagType": "match"
+          },
+          "fields": []
         }
       ],
       "fields": {
         "videoId": "vid-274143",
         "workflow": "LIVE",
         "videoStatus": "Scheduled",
+        "videoEstimatedDuration": "14400000",
         "v_has_data": true,
         "scheduledStartTime": "10/20/2026T08:00:00+00:00",
         "offer": "Registered",
@@ -654,1124 +1243,22 @@
           ]
         }
       },
+      "createdBy": "icc-forge-diva-connector-worker-client",
+      "lastUpdatedBy": "System Automator",
+      "lastUpdatedDate": "2026-10-16T10:37:58.000Z",
+      "contentDate": "2026-10-16T10:37:58.000Z",
+      "featured": 0,
       "thumbnail": {
         "title": "Pakistan vs England",
         "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-270228",
-      "_entityId": "entity-270228",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/australia-v-new-zealand-1st-innings",
-      "slug": "australia-v-new-zealand-1st-innings",
-      "title": "Australia v New Zealand (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15487",
-          "title": "New Zealand Women in Australia, 3 T20I Series, 2026",
-          "slug": "tournament-15487",
-          "extraData": {
-            "tournamentId": "15487",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270228",
-          "title": "Australia vs New Zealand - 2nd T20I - 10/20/2026",
-          "slug": "match-270228",
-          "extraData": {
-            "matchId": "270228",
-            "teamA": "Australia",
-            "teamB": "New Zealand",
-            "matchDateLocal": "10/20/2026",
-            "matchType": "T20",
-            "seriesName": "New Zealand Women in Australia, 3 T20I Series, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-270228",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/20/2026T08:15:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
+        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default",
+        "format": "png",
+        "overriddenFormats": [],
+        "slug": "pakistan-v-england-1st-innings-thumb",
+        "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/photos/pakistan-v-england-1st-innings-thumb"
       },
-      "thumbnail": {
-        "title": "Australia vs New Zealand",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274929",
-      "_entityId": "entity-274929",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/uganda-v-zambia-1st-innings",
-      "slug": "uganda-v-zambia-1st-innings",
-      "title": "Uganda v Zambia (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274929",
-          "title": "Uganda vs Zambia - Match 1 - 10/20/2026",
-          "slug": "match-274929",
-          "extraData": {
-            "matchId": "274929",
-            "teamA": "Uganda",
-            "teamB": "Zambia",
-            "matchDateLocal": "10/20/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274929",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/20/2026T08:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Uganda vs Zambia",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274930",
-      "_entityId": "entity-274930",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/lesotho-v-mozambique-1st-innings",
-      "slug": "lesotho-v-mozambique-1st-innings",
-      "title": "Lesotho v Mozambique (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274930",
-          "title": "Lesotho vs Mozambique - Match 2 - 10/20/2026",
-          "slug": "match-274930",
-          "extraData": {
-            "matchId": "274930",
-            "teamA": "Lesotho",
-            "teamB": "Mozambique",
-            "matchDateLocal": "10/20/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274930",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/20/2026T12:50:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Lesotho vs Mozambique",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274931",
-      "_entityId": "entity-274931",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nigeria-v-gambia-1st-innings",
-      "slug": "nigeria-v-gambia-1st-innings",
-      "title": "Nigeria v Gambia (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274931",
-          "title": "Nigeria vs Gambia - Match 3 - 10/20/2026",
-          "slug": "match-274931",
-          "extraData": {
-            "matchId": "274931",
-            "teamA": "Nigeria",
-            "teamB": "Gambia",
-            "matchDateLocal": "10/20/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274931",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/20/2026T12:50:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Nigeria vs Gambia",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-270971",
-      "_entityId": "entity-270971",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/india-v-zimbabwe-1st-innings",
-      "slug": "india-v-zimbabwe-1st-innings",
-      "title": "India v Zimbabwe (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15563",
-          "title": "Zimbabwe Women in India, 3 T20I Series, 2026",
-          "slug": "tournament-15563",
-          "extraData": {
-            "tournamentId": "15563",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270971",
-          "title": "India vs Zimbabwe - 3rd T20I - 10/20/2026",
-          "slug": "match-270971",
-          "extraData": {
-            "matchId": "270971",
-            "teamA": "India",
-            "teamB": "Zimbabwe",
-            "matchDateLocal": "10/20/2026",
-            "matchType": "T20",
-            "seriesName": "Zimbabwe Women in India, 3 T20I Series, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-270971",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/20/2026T13:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "India vs Zimbabwe",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-275468",
-      "_entityId": "entity-275468",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/kenya-v-denmark-1st-innings",
-      "slug": "kenya-v-denmark-1st-innings",
-      "title": "Kenya v Denmark (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275468",
-          "title": "Kenya vs Denmark - Match 31 - 10/21/2026",
-          "slug": "match-275468",
-          "extraData": {
-            "matchId": "275468",
-            "teamA": "Kenya",
-            "teamB": "Denmark",
-            "matchDateLocal": "10/21/2026",
-            "matchType": "List A",
-            "seriesName": "ICC CWC Challenge League A, 2024-26"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-275468",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/21/2026T06:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Kenya vs Denmark",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274932",
-      "_entityId": "entity-274932",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/mozambique-v-gambia-1st-innings",
-      "slug": "mozambique-v-gambia-1st-innings",
-      "title": "Mozambique v Gambia (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274932",
-          "title": "Mozambique vs Gambia - Match 4 - 10/21/2026",
-          "slug": "match-274932",
-          "extraData": {
-            "matchId": "274932",
-            "teamA": "Mozambique",
-            "teamB": "Gambia",
-            "matchDateLocal": "10/21/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274932",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/21/2026T08:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Mozambique vs Gambia",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274933",
-      "_entityId": "entity-274933",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/lesotho-v-uganda-1st-innings",
-      "slug": "lesotho-v-uganda-1st-innings",
-      "title": "Lesotho v Uganda (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274933",
-          "title": "Lesotho vs Uganda - Match 5 - 10/21/2026",
-          "slug": "match-274933",
-          "extraData": {
-            "matchId": "274933",
-            "teamA": "Lesotho",
-            "teamB": "Uganda",
-            "matchDateLocal": "10/21/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274933",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/21/2026T08:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Lesotho vs Uganda",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274658",
-      "_entityId": "entity-274658",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/afghanistan-v-bangladesh-1st-innings",
-      "slug": "afghanistan-v-bangladesh-1st-innings",
-      "title": "Afghanistan v Bangladesh (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15793",
-          "title": "ODI Tri-Series in United Arab Emirates, 2026",
-          "slug": "tournament-15793",
-          "extraData": {
-            "tournamentId": "15793",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274658",
-          "title": "Afghanistan vs Bangladesh - Match 3 - 10/21/2026",
-          "slug": "match-274658",
-          "extraData": {
-            "matchId": "274658",
-            "teamA": "Afghanistan",
-            "teamB": "Bangladesh",
-            "matchDateLocal": "10/21/2026",
-            "matchType": "ODI",
-            "seriesName": "ODI Tri-Series in United Arab Emirates, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274658",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/21/2026T12:00:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Afghanistan vs Bangladesh",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274934",
-      "_entityId": "entity-274934",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/zambia-v-nigeria-1st-innings",
-      "slug": "zambia-v-nigeria-1st-innings",
-      "title": "Zambia v Nigeria (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274934",
-          "title": "Zambia vs Nigeria - Match 6 - 10/21/2026",
-          "slug": "match-274934",
-          "extraData": {
-            "matchId": "274934",
-            "teamA": "Zambia",
-            "teamB": "Nigeria",
-            "matchDateLocal": "10/21/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274934",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/21/2026T12:50:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Zambia vs Nigeria",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-275470",
-      "_entityId": "entity-275470",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/papua-new-guinea-v-jersey-1st-innings",
-      "slug": "papua-new-guinea-v-jersey-1st-innings",
-      "title": "Papua New Guinea v Jersey (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275470",
-          "title": "Papua New Guinea vs Jersey - Match 32 - 10/22/2026",
-          "slug": "match-275470",
-          "extraData": {
-            "matchId": "275470",
-            "teamA": "Papua New Guinea",
-            "teamB": "Jersey",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "List A",
-            "seriesName": "ICC CWC Challenge League A, 2024-26"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-275470",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/22/2026T06:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Papua New Guinea vs Jersey",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-275473",
-      "_entityId": "entity-275473",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/qatar-v-kuwait-1st-innings",
-      "slug": "qatar-v-kuwait-1st-innings",
-      "title": "Qatar v Kuwait (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-8151",
-          "title": "ICC CWC Challenge League A, 2024-26",
-          "slug": "tournament-8151",
-          "extraData": {
-            "tournamentId": "8151",
-            "competitionType": "List A Domestic - m",
-            "competitionTypeId": "5"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275473",
-          "title": "Qatar vs Kuwait - Match 33 - 10/22/2026",
-          "slug": "match-275473",
-          "extraData": {
-            "matchId": "275473",
-            "teamA": "Qatar",
-            "teamB": "Kuwait",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "List A",
-            "seriesName": "ICC CWC Challenge League A, 2024-26"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-275473",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/22/2026T06:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Qatar vs Kuwait",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-271646",
-      "_entityId": "entity-271646",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/new-zealand-v-india-1st-innings",
-      "slug": "new-zealand-v-india-1st-innings",
-      "title": "New Zealand v India (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15632",
-          "title": "India in New Zealand, 5 T20I Series, 2026",
-          "slug": "tournament-15632",
-          "extraData": {
-            "tournamentId": "15632",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-271646",
-          "title": "New Zealand vs India - 1st T20I - 10/22/2026",
-          "slug": "match-271646",
-          "extraData": {
-            "matchId": "271646",
-            "teamA": "New Zealand",
-            "teamB": "India",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "T20",
-            "seriesName": "India in New Zealand, 5 T20I Series, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-271646",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/22/2026T07:00:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "New Zealand vs India",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-275410",
-      "_entityId": "entity-275410",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/namibia-v-ireland-1st-innings",
-      "slug": "namibia-v-ireland-1st-innings",
-      "title": "Namibia v Ireland (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15830",
-          "title": "Ireland in Namibia, 5 ODI Series, 2026",
-          "slug": "tournament-15830",
-          "extraData": {
-            "tournamentId": "15830",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-275410",
-          "title": "Namibia vs Ireland - 1st ODI - 10/22/2026",
-          "slug": "match-275410",
-          "extraData": {
-            "matchId": "275410",
-            "teamA": "Namibia",
-            "teamB": "Ireland",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "ODI",
-            "seriesName": "Ireland in Namibia, 5 ODI Series, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-275410",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/22/2026T08:00:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Namibia vs Ireland",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274144",
-      "_entityId": "entity-274144",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/sri-lanka-v-england-1st-innings",
-      "slug": "sri-lanka-v-england-1st-innings",
-      "title": "Sri Lanka v England (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15763",
-          "title": "ODI Tri-Series in Pakistan, 2026",
-          "slug": "tournament-15763",
-          "extraData": {
-            "tournamentId": "15763",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274144",
-          "title": "Sri Lanka vs England - Match 3 - 10/22/2026",
-          "slug": "match-274144",
-          "extraData": {
-            "matchId": "274144",
-            "teamA": "Sri Lanka",
-            "teamB": "England",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "ODI",
-            "seriesName": "ODI Tri-Series in Pakistan, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274144",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/22/2026T08:00:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Sri Lanka vs England",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-270229",
-      "_entityId": "entity-270229",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/australia-v-new-zealand-1st-innings",
-      "slug": "australia-v-new-zealand-1st-innings",
-      "title": "Australia v New Zealand (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15487",
-          "title": "New Zealand Women in Australia, 3 T20I Series, 2026",
-          "slug": "tournament-15487",
-          "extraData": {
-            "tournamentId": "15487",
-            "competitionType": "T20 International - w",
-            "competitionTypeId": "13"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270229",
-          "title": "Australia vs New Zealand - 3rd T20I - 10/22/2026",
-          "slug": "match-270229",
-          "extraData": {
-            "matchId": "270229",
-            "teamA": "Australia",
-            "teamB": "New Zealand",
-            "matchDateLocal": "10/22/2026",
-            "matchType": "T20",
-            "seriesName": "New Zealand Women in Australia, 3 T20I Series, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-270229",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/22/2026T08:15:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Australia vs New Zealand",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-270972",
-      "_entityId": "entity-270972",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/india-v-zimbabwe-1st-innings",
-      "slug": "india-v-zimbabwe-1st-innings",
-      "title": "India v Zimbabwe (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15564",
-          "title": "Zimbabwe Women in India, 3 ODI Series, 2026",
-          "slug": "tournament-15564",
-          "extraData": {
-            "tournamentId": "15564",
-            "competitionType": "ODI International - w",
-            "competitionTypeId": "12"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-270972",
-          "title": "India vs Zimbabwe - 1st ODI - 10/23/2026",
-          "slug": "match-270972",
-          "extraData": {
-            "matchId": "270972",
-            "teamA": "India",
-            "teamB": "Zimbabwe",
-            "matchDateLocal": "10/23/2026",
-            "matchType": "ODI",
-            "seriesName": "Zimbabwe Women in India, 3 ODI Series, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-270972",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/23/2026T08:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "India vs Zimbabwe",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274935",
-      "_entityId": "entity-274935",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/nigeria-v-mozambique-1st-innings",
-      "slug": "nigeria-v-mozambique-1st-innings",
-      "title": "Nigeria v Mozambique (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274935",
-          "title": "Nigeria vs Mozambique - Match 7 - 10/23/2026",
-          "slug": "match-274935",
-          "extraData": {
-            "matchId": "274935",
-            "teamA": "Nigeria",
-            "teamB": "Mozambique",
-            "matchDateLocal": "10/23/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274935",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/23/2026T08:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Nigeria vs Mozambique",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274936",
-      "_entityId": "entity-274936",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/zambia-v-lesotho-1st-innings",
-      "slug": "zambia-v-lesotho-1st-innings",
-      "title": "Zambia v Lesotho (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274936",
-          "title": "Zambia vs Lesotho - Match 8 - 10/23/2026",
-          "slug": "match-274936",
-          "extraData": {
-            "matchId": "274936",
-            "teamA": "Zambia",
-            "teamB": "Lesotho",
-            "matchDateLocal": "10/23/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274936",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/23/2026T08:30:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Zambia vs Lesotho",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274659",
-      "_entityId": "entity-274659",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/t.b.c.-v-t.b.c.-1st-innings",
-      "slug": "t.b.c.-v-t.b.c.-1st-innings",
-      "title": "T.B.C. v T.B.C. (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15793",
-          "title": "ODI Tri-Series in United Arab Emirates, 2026",
-          "slug": "tournament-15793",
-          "extraData": {
-            "tournamentId": "15793",
-            "competitionType": "ODI International - m",
-            "competitionTypeId": "2"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274659",
-          "title": "T.B.C. vs T.B.C. - Final - 10/23/2026",
-          "slug": "match-274659",
-          "extraData": {
-            "matchId": "274659",
-            "teamA": "T.B.C.",
-            "teamB": "T.B.C.",
-            "matchDateLocal": "10/23/2026",
-            "matchType": "ODI",
-            "seriesName": "ODI Tri-Series in United Arab Emirates, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274659",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/23/2026T12:00:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "T.B.C. vs T.B.C.",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
-    },
-    {
-      "type": "customentity",
-      "_translationId": "trans-274937",
-      "_entityId": "entity-274937",
-      "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/videos/gambia-v-uganda-1st-innings",
-      "slug": "gambia-v-uganda-1st-innings",
-      "title": "Gambia v Uganda (1st Innings)",
-      "tags": [
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/tournament-15813",
-          "title": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
-          "slug": "tournament-15813",
-          "extraData": {
-            "tournamentId": "15813",
-            "competitionType": "T20 International - m",
-            "competitionTypeId": "3"
-          }
-        },
-        {
-          "selfUrl": "https://dapi.icc-cricket.com/v2/content/en-gb/tags/match-274937",
-          "title": "Gambia vs Uganda - Match 9 - 10/23/2026",
-          "slug": "match-274937",
-          "extraData": {
-            "matchId": "274937",
-            "teamA": "Gambia",
-            "teamB": "Uganda",
-            "matchDateLocal": "10/23/2026",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026"
-          }
-        }
-      ],
-      "fields": {
-        "videoId": "vid-274937",
-        "workflow": "LIVE",
-        "videoStatus": "Scheduled",
-        "v_has_data": true,
-        "scheduledStartTime": "10/23/2026T12:50:00+00:00",
-        "offer": "Registered",
-        "type": "Event",
-        "countryRestrictions": {
-          "listType": "blacklist",
-          "countries": [
-            "IN"
-          ]
-        }
-      },
-      "thumbnail": {
-        "title": "Gambia vs Uganda",
-        "templateUrl": "https://images.icc-cricket.com/image/upload/{formatInstructions}/prd/default",
-        "thumbnailUrl": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/default"
-      }
+      "entityCode": "video",
+      "_listAvailability": 0
     }
   ]
 }
