@@ -1,7 +1,7 @@
 import json
 
 def filter_icc_tv_global_events(input_filename, output_filename):
-    # JSON file read karein
+    # icc.json file read karein
     with open(input_filename, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
@@ -11,8 +11,7 @@ def filter_icc_tv_global_events(input_filename, output_filename):
             extra_data = tag.get('extraData', {})
             series_type = extra_data.get('seriesType', '')
             
-            # ICC TV global streams par zyadatar 'Tournament' series type wale matches aate hain
-            # Jaise ICC CWC League 2, ECA Women's European Cup, etc.
+            # Sirf 'Tournament' category wale events (jaise ICC CWC League 2) ko rakhega[span_1](start_span)[span_1](end_span)
             if series_type == 'Tournament':
                 return True
         return False
@@ -35,8 +34,8 @@ def filter_icc_tv_global_events(input_filename, output_filename):
     
     print(f"Filtering complete! File saved as: {output_filename}")
 
-# Script ko run karne ke liye input file name yahan dein:
 if __name__ == "__main__":
-    input_file = "icc.json"                 # Apni original JSON file ka naam
-    output_file = "icc_tv_global.json"      # Output file ka naam
+    input_file = "icc.json"                 
+    output_file = "icc_tv_global.json"      
     filter_icc_tv_global_events(input_file, output_file)
+    
