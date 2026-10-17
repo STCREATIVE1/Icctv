@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *' # Har 6 ghante mein auto-run hoga
   workflow_dispatch:      # Manual run karne ke liye button bhi milega
 
+permissions:
+  contents: write         # Repository par auto-commit aur push karne ke liye permissions zaroori hain
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,7 +28,7 @@ jobs:
 
     - name: Run Scraper Script
       run: |
-        python st.py # Ya agar aapne script ka naam kuch aur rakha hai toh wahi likhein
+        python st.py  # Agar aapne script ka naam 'ic.py' rakha hai toh yehi chalega
 
     - name: Commit and Push Changes
       run: |
